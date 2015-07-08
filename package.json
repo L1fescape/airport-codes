@@ -1,0 +1,31 @@
+{
+  "name": "airport-codes",
+  "version": "1.0.0",
+  "description": "Airport codes (IATA) and information pulled from OpenFlights.org.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akenn/airport-codes"
+  },
+  "keywords": [
+    "airport",
+    "codes",
+    "iata",
+    "openflights"
+  ],
+  "author": "Andrew Kennedy <andrew@akenn.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akenn/airport-codes/issues"
+  },
+  "homepage": "https://github.com/akenn/airport-codes",
+  "dependencies": {
+    "JSONStream": "^1.0.4",
+    "backbone": "^1.2.1",
+    "csv": "^0.4.5",
+    "lodash": "^3.10.0"
+  }
+}
