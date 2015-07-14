@@ -24,7 +24,7 @@
   "homepage": "https://github.com/akenn/airport-codes",
   "dependencies": {
     "JSONStream": "^1.0.4",
-    "backbone": "^1.2.1",
+    "backbone": "^1.1.2",
     "csv": "^0.4.5",
     "lodash": "^3.10.0"
   }
