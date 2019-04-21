@@ -299,9 +299,9 @@
 ,
 {"id":"151","name":"Vermilion Airport","city":"Vermillion","country":"Canada","iata":"YVG","icao":"CYVG","latitude":"53.355800628699996","longitude":"-110.823997498","altitude":"2025","timezone":"-7","dst":"A","tz":"America/Edmonton"}
 ,
-{"id":"152","name":"Qikiqtarjuaq Airport","city":"Broughton Island","country":"Canada","iata":"YVM","icao":"CYVM","latitude":"67.5457992554","longitude":"-64.03140258789999","altitude":"21","timezone":"-5","dst":"A","tz":"America/Toronto"}
-,
 {"id":"153","name":"Val-d'Or Airport","city":"Val D'or","country":"Canada","iata":"YVO","icao":"CYVO","latitude":"48.0532989502","longitude":"-77.7827987671","altitude":"1107","timezone":"-5","dst":"A","tz":"America/Toronto"}
+,
+{"id":"152","name":"Qikiqtarjuaq Airport","city":"Broughton Island","country":"Canada","iata":"YVM","icao":"CYVM","latitude":"67.5457992554","longitude":"-64.03140258789999","altitude":"21","timezone":"-5","dst":"A","tz":"America/Toronto"}
 ,
 {"id":"154","name":"Kuujjuaq Airport","city":"Quujjuaq","country":"Canada","iata":"YVP","icao":"CYVP","latitude":"58.096099853515625","longitude":"-68.4269027709961","altitude":"129","timezone":"-5","dst":"A","tz":"America/Toronto"}
 ,
@@ -427,9 +427,9 @@
 ,
 {"id":"215","name":"Ain Oussera Airport","city":"Ain Oussera","country":"Algeria","iata":"\\N","icao":"DAAQ","latitude":"35.52539825439453","longitude":"2.8787100315093994","altitude":"2132","timezone":"1","dst":"N","tz":"Africa/Algiers"}
 ,
-{"id":"216","name":"Aguenar – Hadj Bey Akhamok Airport","city":"Tamanrasset","country":"Algeria","iata":"TMR","icao":"DAAT","latitude":"22.8115005493","longitude":"5.45107984543","altitude":"4518","timezone":"1","dst":"N","tz":"Africa/Algiers"}
-,
 {"id":"217","name":"Jijel Ferhat Abbas Airport","city":"Jijel","country":"Algeria","iata":"GJL","icao":"DAAV","latitude":"36.7951011658","longitude":"5.87361001968","altitude":"36","timezone":"1","dst":"N","tz":"Africa/Algiers"}
+,
+{"id":"216","name":"Aguenar – Hadj Bey Akhamok Airport","city":"Tamanrasset","country":"Algeria","iata":"TMR","icao":"DAAT","latitude":"22.8115005493","longitude":"5.45107984543","altitude":"4518","timezone":"1","dst":"N","tz":"Africa/Algiers"}
 ,
 {"id":"218","name":"Mecheria Airport","city":"Mecheria","country":"Algeria","iata":"MZW","icao":"DAAY","latitude":"33.535900116","longitude":"-0.242353007197","altitude":"3855","timezone":"1","dst":"N","tz":"Africa/Algiers"}
 ,
@@ -555,9 +555,9 @@
 ,
 {"id":"280","name":"Diori Hamani International Airport","city":"Niamey","country":"Niger","iata":"NIM","icao":"DRRN","latitude":"13.481499671936035","longitude":"2.183609962463379","altitude":"732","timezone":"1","dst":"N","tz":"Africa/Niamey"}
 ,
-{"id":"281","name":"Tahoua Airport","city":"Tahoua","country":"Niger","iata":"THZ","icao":"DRRT","latitude":"14.875699996948242","longitude":"5.265359878540039","altitude":"1266","timezone":"1","dst":"N","tz":"Africa/Niamey"}
-,
 {"id":"282","name":"Mano Dayak International Airport","city":"Agadez","country":"Niger","iata":"AJY","icao":"DRZA","latitude":"16.965999603271484","longitude":"8.000109672546387","altitude":"1657","timezone":"1","dst":"N","tz":"Africa/Niamey"}
+,
+{"id":"281","name":"Tahoua Airport","city":"Tahoua","country":"Niger","iata":"THZ","icao":"DRRT","latitude":"14.875699996948242","longitude":"5.265359878540039","altitude":"1266","timezone":"1","dst":"N","tz":"Africa/Niamey"}
 ,
 {"id":"283","name":"Dirkou Airport","city":"Dirkou","country":"Niger","iata":"\\N","icao":"DRZD","latitude":"18.968700408935547","longitude":"12.86870002746582","altitude":"1273","timezone":"1","dst":"N","tz":"Africa/Niamey"}
 ,
@@ -715,9 +715,9 @@
 ,
 {"id":"361","name":"Siegerland Airport","city":"Siegerland","country":"Germany","iata":"SGE","icao":"EDGS","latitude":"50.707698822021484","longitude":"8.082969665527344","altitude":"1966","timezone":"1","dst":"E","tz":"Europe/Berlin"}
 ,
-{"id":"362","name":"Hamburg-Finkenwerder Airport","city":"Hamburg","country":"Germany","iata":"XFW","icao":"EDHI","latitude":"53.5352783203125","longitude":"9.835556030273438","altitude":"23","timezone":"1","dst":"E","tz":"Europe/Berlin"}
-,
 {"id":"363","name":"Kiel-Holtenau Airport","city":"Kiel","country":"Germany","iata":"KEL","icao":"EDHK","latitude":"54.37944412231445","longitude":"10.145277976989746","altitude":"102","timezone":"1","dst":"E","tz":"Europe/Berlin"}
+,
+{"id":"362","name":"Hamburg-Finkenwerder Airport","city":"Hamburg","country":"Germany","iata":"XFW","icao":"EDHI","latitude":"53.5352783203125","longitude":"9.835556030273438","altitude":"23","timezone":"1","dst":"E","tz":"Europe/Berlin"}
 ,
 {"id":"364","name":"Lübeck Blankensee Airport","city":"Luebeck","country":"Germany","iata":"LBC","icao":"EDHL","latitude":"53.8054008484","longitude":"10.7192001343","altitude":"53","timezone":"1","dst":"E","tz":"Europe/Berlin"}
 ,
@@ -843,9 +843,9 @@
 ,
 {"id":"425","name":"Kiikala Airport","city":"Kikala","country":"Finland","iata":"\\N","icao":"EFIK","latitude":"60.4625015259","longitude":"23.6525001526","altitude":"381","timezone":"2","dst":"E","tz":"Europe/Helsinki"}
 ,
-{"id":"426","name":"Immola Airport","city":"Immola","country":"Finland","iata":"\\N","icao":"EFIM","latitude":"61.24919891357422","longitude":"28.90369987487793","altitude":"338","timezone":"2","dst":"E","tz":"Europe/Helsinki"}
-,
 {"id":"427","name":"Kitee Airport","city":"Kitee","country":"Finland","iata":"KTQ","icao":"EFIT","latitude":"62.1661","longitude":"30.073601","altitude":"364","timezone":"2","dst":"E","tz":"Europe/Helsinki"}
+,
+{"id":"426","name":"Immola Airport","city":"Immola","country":"Finland","iata":"\\N","icao":"EFIM","latitude":"61.24919891357422","longitude":"28.90369987487793","altitude":"338","timezone":"2","dst":"E","tz":"Europe/Helsinki"}
 ,
 {"id":"428","name":"Ivalo Airport","city":"Ivalo","country":"Finland","iata":"IVL","icao":"EFIV","latitude":"68.607299804688","longitude":"27.405300140381","altitude":"481","timezone":"2","dst":"E","tz":"Europe/Helsinki"}
 ,
@@ -971,9 +971,9 @@
 ,
 {"id":"490","name":"Bristol Airport","city":"Bristol","country":"United Kingdom","iata":"BRS","icao":"EGGD","latitude":"51.382702","longitude":"-2.71909","altitude":"622","timezone":"0","dst":"E","tz":"Europe/London"}
 ,
-{"id":"491","name":"Liverpool John Lennon Airport","city":"Liverpool","country":"United Kingdom","iata":"LPL","icao":"EGGP","latitude":"53.33359909057617","longitude":"-2.849720001220703","altitude":"80","timezone":"0","dst":"E","tz":"Europe/London"}
-,
 {"id":"492","name":"London Luton Airport","city":"London","country":"United Kingdom","iata":"LTN","icao":"EGGW","latitude":"51.874698638916016","longitude":"-0.36833301186561584","altitude":"526","timezone":"0","dst":"E","tz":"Europe/London"}
+,
+{"id":"491","name":"Liverpool John Lennon Airport","city":"Liverpool","country":"United Kingdom","iata":"LPL","icao":"EGGP","latitude":"53.33359909057617","longitude":"-2.849720001220703","altitude":"80","timezone":"0","dst":"E","tz":"Europe/London"}
 ,
 {"id":"493","name":"Plymouth City Airport","city":"Plymouth","country":"United Kingdom","iata":"PLH","icao":"EGHD","latitude":"50.422798","longitude":"-4.10583","altitude":"476","timezone":"0","dst":"E","tz":"Europe/London"}
 ,
@@ -1131,9 +1131,9 @@
 ,
 {"id":"571","name":"RAF Scampton","city":"Scampton","country":"United Kingdom","iata":"SQZ","icao":"EGXP","latitude":"53.307800293","longitude":"-0.550832986832","altitude":"202","timezone":"0","dst":"E","tz":"Europe/London"}
 ,
-{"id":"572","name":"RAF Wittering","city":"Wittering","country":"United Kingdom","iata":"\\N","icao":"EGXT","latitude":"52.612598","longitude":"-0.476453","altitude":"273","timezone":"0","dst":"E","tz":"Europe/London"}
-,
 {"id":"573","name":"RAF Linton-On-Ouse","city":"Linton-on-ouse","country":"United Kingdom","iata":"HRT","icao":"EGXU","latitude":"54.0489006042","longitude":"-1.2527500391","altitude":"53","timezone":"0","dst":"E","tz":"Europe/London"}
+,
+{"id":"572","name":"RAF Wittering","city":"Wittering","country":"United Kingdom","iata":"\\N","icao":"EGXT","latitude":"52.612598","longitude":"-0.476453","altitude":"273","timezone":"0","dst":"E","tz":"Europe/London"}
 ,
 {"id":"574","name":"RAF Waddington","city":"Waddington","country":"United Kingdom","iata":"WTN","icao":"EGXW","latitude":"53.1661987305","longitude":"-0.523810982704","altitude":"231","timezone":"0","dst":"E","tz":"Europe/London"}
 ,
@@ -1259,9 +1259,9 @@
 ,
 {"id":"638","name":"Kristiansand Airport","city":"Kristiansand","country":"Norway","iata":"KRS","icao":"ENCN","latitude":"58.204201","longitude":"8.08537","altitude":"57","timezone":"1","dst":"E","tz":"Europe/Oslo"}
 ,
-{"id":"639","name":"Geilo Airport Dagali","city":"Geilo","country":"Norway","iata":"DLD","icao":"ENDI","latitude":"60.417301177978516","longitude":"8.518349647521973","altitude":"2618","timezone":"1","dst":"E","tz":"Europe/Oslo"}
-,
 {"id":"640","name":"Bardufoss Airport","city":"Bardufoss","country":"Norway","iata":"BDU","icao":"ENDU","latitude":"69.055801391602","longitude":"18.540399551392","altitude":"252","timezone":"1","dst":"E","tz":"Europe/Oslo"}
+,
+{"id":"639","name":"Geilo Airport Dagali","city":"Geilo","country":"Norway","iata":"DLD","icao":"ENDI","latitude":"60.417301177978516","longitude":"8.518349647521973","altitude":"2618","timezone":"1","dst":"E","tz":"Europe/Oslo"}
 ,
 {"id":"641","name":"Harstad/Narvik Airport, Evenes","city":"Harstad/Narvik","country":"Norway","iata":"EVE","icao":"ENEV","latitude":"68.491302490234","longitude":"16.678100585938","altitude":"84","timezone":"1","dst":"E","tz":"Europe/Oslo"}
 ,
@@ -1419,9 +1419,9 @@
 ,
 {"id":"720","name":"Optand Airport","city":"Optand","country":"Sweden","iata":"\\N","icao":"ESNM","latitude":"63.12860107421875","longitude":"14.802800178527832","altitude":"1236","timezone":"1","dst":"E","tz":"Europe/Stockholm"}
 ,
-{"id":"721","name":"Sundsvall-Härnösand Airport","city":"Sundsvall","country":"Sweden","iata":"SDL","icao":"ESNN","latitude":"62.528099060058594","longitude":"17.443899154663086","altitude":"16","timezone":"1","dst":"E","tz":"Europe/Stockholm"}
-,
 {"id":"722","name":"Örnsköldsvik Airport","city":"Ornskoldsvik","country":"Sweden","iata":"OER","icao":"ESNO","latitude":"63.40829849243164","longitude":"18.989999771118164","altitude":"354","timezone":"1","dst":"E","tz":"Europe/Stockholm"}
+,
+{"id":"721","name":"Sundsvall-Härnösand Airport","city":"Sundsvall","country":"Sweden","iata":"SDL","icao":"ESNN","latitude":"62.528099060058594","longitude":"17.443899154663086","altitude":"16","timezone":"1","dst":"E","tz":"Europe/Stockholm"}
 ,
 {"id":"723","name":"Piteå Airport","city":"Pitea","country":"Sweden","iata":"\\N","icao":"ESNP","latitude":"65.39830017089844","longitude":"21.260799407958984","altitude":"43","timezone":"1","dst":"E","tz":"Europe/Stockholm"}
 ,
@@ -1547,9 +1547,9 @@
 ,
 {"id":"790","name":"Alexander Bay Airport","city":"Alexander Bay","country":"South Africa","iata":"ALJ","icao":"FAAB","latitude":"-28.575001","longitude":"16.5333","altitude":"98","timezone":"2","dst":"U","tz":"Africa/Johannesburg"}
 ,
-{"id":"791","name":"Aggeneys Airport","city":"Aggeneys","country":"South Africa","iata":"AGZ","icao":"FAAG","latitude":"-29.28179931640625","longitude":"18.813899993896484","altitude":"2648","timezone":"2","dst":"U","tz":"Africa/Johannesburg"}
-,
 {"id":"792","name":"Brakpan Airport","city":"Brakpan","country":"South Africa","iata":"\\N","icao":"FABB","latitude":"-26.23859977722168","longitude":"28.301799774169922","altitude":"5300","timezone":"2","dst":"U","tz":"Africa/Johannesburg"}
+,
+{"id":"791","name":"Aggeneys Airport","city":"Aggeneys","country":"South Africa","iata":"AGZ","icao":"FAAG","latitude":"-29.28179931640625","longitude":"18.813899993896484","altitude":"2648","timezone":"2","dst":"U","tz":"Africa/Johannesburg"}
 ,
 {"id":"793","name":"Bisho Airport","city":"Bisho","country":"South Africa","iata":"BIY","icao":"FABE","latitude":"-32.8970985413","longitude":"27.279100418099997","altitude":"1950","timezone":"2","dst":"U","tz":"Africa/Johannesburg"}
 ,
@@ -1707,9 +1707,9 @@
 ,
 {"id":"873","name":"Waterkloof Air Force Base","city":"Waterkloof","country":"South Africa","iata":"WKF","icao":"FAWK","latitude":"-25.829999923699997","longitude":"28.222499847399998","altitude":"4940","timezone":"2","dst":"U","tz":"Africa/Johannesburg"}
 ,
-{"id":"874","name":"Welkom Airport","city":"Welkom","country":"South Africa","iata":"\\N","icao":"FAWM","latitude":"-27.996824511099998","longitude":"26.663333892799997","altitude":"4421","timezone":"2","dst":"U","tz":"Africa/Johannesburg"}
-,
 {"id":"875","name":"Ysterplaat Air Force Base","city":"Ysterplaat","country":"South Africa","iata":"\\N","icao":"FAYP","latitude":"-33.90019989013672","longitude":"18.498300552368164","altitude":"52","timezone":"2","dst":"U","tz":"Africa/Johannesburg"}
+,
+{"id":"874","name":"Welkom Airport","city":"Welkom","country":"South Africa","iata":"\\N","icao":"FAWM","latitude":"-27.996824511099998","longitude":"26.663333892799997","altitude":"4421","timezone":"2","dst":"U","tz":"Africa/Johannesburg"}
 ,
 {"id":"876","name":"Zeerust Airport","city":"Zeerust","country":"South Africa","iata":"\\N","icao":"FAZR","latitude":"-25.599000930786133","longitude":"26.042299270629883","altitude":"4258","timezone":"2","dst":"U","tz":"Africa/Johannesburg"}
 ,
@@ -1835,9 +1835,9 @@
 ,
 {"id":"937","name":"Tôlanaro Airport","city":"Tolagnaro","country":"Madagascar","iata":"FTU","icao":"FMSD","latitude":"-25.03809928894043","longitude":"46.95610046386719","altitude":"29","timezone":"3","dst":"U","tz":"Indian/Antananarivo"}
 ,
-{"id":"938","name":"Fianarantsoa Airport","city":"Fianarantsoa","country":"Madagascar","iata":"WFI","icao":"FMSF","latitude":"-21.441600799560547","longitude":"47.111698150634766","altitude":"3658","timezone":"3","dst":"U","tz":"Indian/Antananarivo"}
-,
 {"id":"939","name":"Farafangana Airport","city":"Farafangana","country":"Madagascar","iata":"RVA","icao":"FMSG","latitude":"-22.805299758911133","longitude":"47.82059860229492","altitude":"26","timezone":"3","dst":"U","tz":"Indian/Antananarivo"}
+,
+{"id":"938","name":"Fianarantsoa Airport","city":"Fianarantsoa","country":"Madagascar","iata":"WFI","icao":"FMSF","latitude":"-21.441600799560547","longitude":"47.111698150634766","altitude":"3658","timezone":"3","dst":"U","tz":"Indian/Antananarivo"}
 ,
 {"id":"940","name":"Manakara Airport","city":"Manakara","country":"Madagascar","iata":"WVK","icao":"FMSK","latitude":"-22.119699478149414","longitude":"48.02170181274414","altitude":"33","timezone":"3","dst":"U","tz":"Indian/Antananarivo"}
 ,
@@ -1963,9 +1963,9 @@
 ,
 {"id":"1004","name":"Victoria Falls International Airport","city":"Victoria Falls","country":"Zimbabwe","iata":"VFA","icao":"FVFA","latitude":"-18.09589958190918","longitude":"25.839000701904297","altitude":"3490","timezone":"2","dst":"U","tz":"Africa/Harare"}
 ,
-{"id":"1005","name":"Harare International Airport","city":"Harare","country":"Zimbabwe","iata":"HRE","icao":"FVHA","latitude":"-17.931800842285156","longitude":"31.09280014038086","altitude":"4887","timezone":"2","dst":"U","tz":"Africa/Harare"}
-,
 {"id":"1006","name":"Kariba International Airport","city":"Kariba","country":"Zimbabwe","iata":"KAB","icao":"FVKB","latitude":"-16.519800186157227","longitude":"28.885000228881836","altitude":"1706","timezone":"2","dst":"U","tz":"Africa/Harare"}
+,
+{"id":"1005","name":"Harare International Airport","city":"Harare","country":"Zimbabwe","iata":"HRE","icao":"FVHA","latitude":"-17.931800842285156","longitude":"31.09280014038086","altitude":"4887","timezone":"2","dst":"U","tz":"Africa/Harare"}
 ,
 {"id":"1007","name":"Mutoko Airport","city":"Mutoko","country":"Zimbabwe","iata":"\\N","icao":"FVMT","latitude":"-17.431900024414062","longitude":"32.18450164794922","altitude":"3950","timezone":"2","dst":"U","tz":"Africa/Harare"}
 ,
@@ -2091,9 +2091,9 @@
 ,
 {"id":"1069","name":"Bassatine Airport","city":"Meknes","country":"Morocco","iata":"MEK","icao":"GMFM","latitude":"33.87910079956055","longitude":"-5.515120029449463","altitude":"1890","timezone":"0","dst":"N","tz":"Africa/Casablanca"}
 ,
-{"id":"1070","name":"Angads Airport","city":"Oujda","country":"Morocco","iata":"OUD","icao":"GMFO","latitude":"34.787200927734375","longitude":"-1.92399001121521","altitude":"1535","timezone":"0","dst":"N","tz":"Africa/Casablanca"}
-,
 {"id":"1071","name":"Ben Slimane Airport","city":"Ben Slimane","country":"Morocco","iata":"GMD","icao":"GMMB","latitude":"33.655399","longitude":"-7.22145","altitude":"627","timezone":"0","dst":"N","tz":"Africa/Casablanca"}
+,
+{"id":"1070","name":"Angads Airport","city":"Oujda","country":"Morocco","iata":"OUD","icao":"GMFO","latitude":"34.787200927734375","longitude":"-1.92399001121521","altitude":"1535","timezone":"0","dst":"N","tz":"Africa/Casablanca"}
 ,
 {"id":"1072","name":"Rabat-Salé Airport","city":"Rabat","country":"Morocco","iata":"RBA","icao":"GMME","latitude":"34.051498","longitude":"-6.75152","altitude":"276","timezone":"0","dst":"N","tz":"Africa/Casablanca"}
 ,
@@ -2251,9 +2251,9 @@
 ,
 {"id":"1154","name":"Benina International Airport","city":"Benghazi","country":"Libya","iata":"BEN","icao":"HLLB","latitude":"32.096801757799994","longitude":"20.2695007324","altitude":"433","timezone":"2","dst":"N","tz":"Africa/Tripoli"}
 ,
-{"id":"1156","name":"Sabha Airport","city":"Sebha","country":"Libya","iata":"SEB","icao":"HLLS","latitude":"26.98699951171875","longitude":"14.47249984741211","altitude":"1427","timezone":"2","dst":"N","tz":"Africa/Tripoli"}
-,
 {"id":"1157","name":"Tripoli International Airport","city":"Tripoli","country":"Libya","iata":"TIP","icao":"HLLT","latitude":"32.6635017395","longitude":"13.1590003967","altitude":"263","timezone":"2","dst":"N","tz":"Africa/Tripoli"}
+,
+{"id":"1156","name":"Sabha Airport","city":"Sebha","country":"Libya","iata":"SEB","icao":"HLLS","latitude":"26.98699951171875","longitude":"14.47249984741211","altitude":"1427","timezone":"2","dst":"N","tz":"Africa/Tripoli"}
 ,
 {"id":"1158","name":"Marsa Brega Airport","city":"Marsa Brega","country":"Libya","iata":"LMQ","icao":"HLMB","latitude":"30.37809944152832","longitude":"19.576400756835938","altitude":"50","timezone":"2","dst":"N","tz":"Africa/Tripoli"}
 ,
@@ -2379,9 +2379,9 @@
 ,
 {"id":"1221","name":"Armilla Air Base","city":"Granada","country":"Spain","iata":"\\N","icao":"LEGA","latitude":"37.1332016","longitude":"-3.63568997","altitude":"2297","timezone":"1","dst":"E","tz":"Europe/Madrid"}
 ,
-{"id":"1222","name":"Girona Airport","city":"Gerona","country":"Spain","iata":"GRO","icao":"LEGE","latitude":"41.901000977","longitude":"2.7605500221","altitude":"468","timezone":"1","dst":"E","tz":"Europe/Madrid"}
-,
 {"id":"1223","name":"Federico Garcia Lorca Airport","city":"Granada","country":"Spain","iata":"GRX","icao":"LEGR","latitude":"37.18870162963867","longitude":"-3.777359962463379","altitude":"1860","timezone":"1","dst":"E","tz":"Europe/Madrid"}
+,
+{"id":"1222","name":"Girona Airport","city":"Gerona","country":"Spain","iata":"GRO","icao":"LEGE","latitude":"41.901000977","longitude":"2.7605500221","altitude":"468","timezone":"1","dst":"E","tz":"Europe/Madrid"}
 ,
 {"id":"1224","name":"Getafe Air Base","city":"Madrid","country":"Spain","iata":"\\N","icao":"LEGT","latitude":"40.29410171508789","longitude":"-3.723829984664917","altitude":"2031","timezone":"1","dst":"E","tz":"Europe/Madrid"}
 ,
@@ -2507,9 +2507,9 @@
 ,
 {"id":"1288","name":"Graulhet-Montdragon Airport","city":"Graulhet","country":"France","iata":"\\N","icao":"LFCQ","latitude":"43.77109909057617","longitude":"2.0108299255371094","altitude":"581","timezone":"1","dst":"E","tz":"Europe/Paris"}
 ,
-{"id":"1289","name":"Rodez-Marcillac Airport","city":"Rodez","country":"France","iata":"RDZ","icao":"LFCR","latitude":"44.407901763916016","longitude":"2.4826700687408447","altitude":"1910","timezone":"1","dst":"E","tz":"Europe/Paris"}
-,
 {"id":"1290","name":"Ussel-Thalamy Airport","city":"Ussel","country":"France","iata":"\\N","icao":"LFCU","latitude":"45.534698486328125","longitude":"2.4238901138305664","altitude":"2428","timezone":"1","dst":"E","tz":"Europe/Paris"}
+,
+{"id":"1289","name":"Rodez-Marcillac Airport","city":"Rodez","country":"France","iata":"RDZ","icao":"LFCR","latitude":"44.407901763916016","longitude":"2.4826700687408447","altitude":"1910","timezone":"1","dst":"E","tz":"Europe/Paris"}
 ,
 {"id":"1291","name":"Villeneuve-sur-Lot Airport","city":"Villeneuve-sur-lot","country":"France","iata":"\\N","icao":"LFCW","latitude":"44.39690017700195","longitude":"0.7588890194892883","altitude":"190","timezone":"1","dst":"E","tz":"Europe/Paris"}
 ,
@@ -2667,9 +2667,9 @@
 ,
 {"id":"1369","name":"Saumur-Saint-Florent Airport","city":"Saumur","country":"France","iata":"\\N","icao":"LFOD","latitude":"47.256802","longitude":"-0.115142","altitude":"269","timezone":"1","dst":"E","tz":"Europe/Paris"}
 ,
-{"id":"1370","name":"Évreux-Fauville (BA 105) Air Base","city":"Evreux","country":"France","iata":"EVX","icao":"LFOE","latitude":"49.02870178222656","longitude":"1.2198599576950073","altitude":"464","timezone":"1","dst":"E","tz":"Europe/Paris"}
-,
 {"id":"1371","name":"Le Havre Octeville Airport","city":"Le Havre","country":"France","iata":"LEH","icao":"LFOH","latitude":"49.53390121459961","longitude":"0.08805599808692932","altitude":"313","timezone":"1","dst":"E","tz":"Europe/Paris"}
+,
+{"id":"1370","name":"Évreux-Fauville (BA 105) Air Base","city":"Evreux","country":"France","iata":"EVX","icao":"LFOE","latitude":"49.02870178222656","longitude":"1.2198599576950073","altitude":"464","timezone":"1","dst":"E","tz":"Europe/Paris"}
 ,
 {"id":"1372","name":"Abbeville","city":"Abbeville","country":"France","iata":"XAB","icao":"LFOI","latitude":"50.143501","longitude":"1.831891","altitude":"220","timezone":"1","dst":"E","tz":"Europe/Paris"}
 ,
@@ -2795,9 +2795,9 @@
 ,
 {"id":"1433","name":"Pontarlier Airport","city":"Pontarlier","country":"France","iata":"\\N","icao":"LFSP","latitude":"46.90399932861328","longitude":"6.3273701667785645","altitude":"2683","timezone":"1","dst":"E","tz":"Europe/Paris"}
 ,
-{"id":"1434","name":"Reims-Champagne (BA 112) Air Base","city":"Reims","country":"France","iata":"RHE","icao":"LFSR","latitude":"49.310001","longitude":"4.05","altitude":"312","timezone":"1","dst":"E","tz":"Europe/Paris"}
-,
 {"id":"1435","name":"Strasbourg Airport","city":"Strasbourg","country":"France","iata":"SXB","icao":"LFST","latitude":"48.538299560546875","longitude":"7.628230094909668","altitude":"505","timezone":"1","dst":"E","tz":"Europe/Paris"}
+,
+{"id":"1434","name":"Reims-Champagne (BA 112) Air Base","city":"Reims","country":"France","iata":"RHE","icao":"LFSR","latitude":"49.310001","longitude":"4.05","altitude":"312","timezone":"1","dst":"E","tz":"Europe/Paris"}
 ,
 {"id":"1436","name":"Luxeuil-Saint-Sauveur (BA 116) Air Base","city":"Luxeuil","country":"France","iata":"\\N","icao":"LFSX","latitude":"47.7830556","longitude":"6.36416667","altitude":"913","timezone":"1","dst":"E","tz":"Europe/Paris"}
 ,
@@ -2955,9 +2955,9 @@
 ,
 {"id":"1517","name":"Alghero-Fertilia Airport","city":"Alghero","country":"Italy","iata":"AHO","icao":"LIEA","latitude":"40.632099","longitude":"8.29077","altitude":"87","timezone":"1","dst":"E","tz":"Europe/Rome"}
 ,
-{"id":"1518","name":"Decimomannu Air Base","city":"Decimomannu","country":"Italy","iata":"DCI","icao":"LIED","latitude":"39.354198","longitude":"8.97248","altitude":"100","timezone":"1","dst":"E","tz":"Europe/Rome"}
-,
 {"id":"1519","name":"Cagliari Elmas Airport","city":"Cagliari","country":"Italy","iata":"CAG","icao":"LIEE","latitude":"39.251499","longitude":"9.05428","altitude":"13","timezone":"1","dst":"E","tz":"Europe/Rome"}
+,
+{"id":"1518","name":"Decimomannu Air Base","city":"Decimomannu","country":"Italy","iata":"DCI","icao":"LIED","latitude":"39.354198","longitude":"8.97248","altitude":"100","timezone":"1","dst":"E","tz":"Europe/Rome"}
 ,
 {"id":"1520","name":"Olbia Costa Smeralda Airport","city":"Olbia","country":"Italy","iata":"OLB","icao":"LIEO","latitude":"40.898701","longitude":"9.51763","altitude":"37","timezone":"1","dst":"E","tz":"Europe/Rome"}
 ,
@@ -3083,9 +3083,9 @@
 ,
 {"id":"1583","name":"Náměšť Air Base","city":"Namest","country":"Czech Republic","iata":"\\N","icao":"LKNA","latitude":"49.16579818725586","longitude":"16.124900817871094","altitude":"1548","timezone":"1","dst":"E","tz":"Europe/Prague"}
 ,
-{"id":"1584","name":"Pardubice Airport","city":"Pardubice","country":"Czech Republic","iata":"PED","icao":"LKPD","latitude":"50.01340103149414","longitude":"15.73859977722168","altitude":"741","timezone":"1","dst":"E","tz":"Europe/Prague"}
-,
 {"id":"1585","name":"Pribram Airport","city":"Pribram","country":"Czech Republic","iata":"\\N","icao":"LKPM","latitude":"49.7201","longitude":"14.1006","altitude":"1529","timezone":"1","dst":"E","tz":"Europe/Prague"}
+,
+{"id":"1584","name":"Pardubice Airport","city":"Pardubice","country":"Czech Republic","iata":"PED","icao":"LKPD","latitude":"50.01340103149414","longitude":"15.73859977722168","altitude":"741","timezone":"1","dst":"E","tz":"Europe/Prague"}
 ,
 {"id":"1586","name":"Přerov Air Base","city":"Prerov","country":"Czech Republic","iata":"PRV","icao":"LKPO","latitude":"49.42580032348633","longitude":"17.404699325561523","altitude":"676","timezone":"1","dst":"E","tz":"Europe/Prague"}
 ,
@@ -3243,9 +3243,9 @@
 ,
 {"id":"1665","name":"Geneva Cointrin International Airport","city":"Geneva","country":"Switzerland","iata":"GVA","icao":"LSGG","latitude":"46.23809814453125","longitude":"6.108950138092041","altitude":"1411","timezone":"1","dst":"E","tz":"Europe/Paris"}
 ,
-{"id":"1666","name":"Saanen Airport","city":"Saanen","country":"Switzerland","iata":"\\N","icao":"LSGK","latitude":"46.4874992371","longitude":"7.25083017349","altitude":"3307","timezone":"1","dst":"E","tz":"Europe/Zurich"}
-,
 {"id":"1667","name":"Sion Airport","city":"Sion","country":"Switzerland","iata":"SIR","icao":"LSGS","latitude":"46.219600677500004","longitude":"7.326759815220001","altitude":"1585","timezone":"1","dst":"E","tz":"Europe/Zurich"}
+,
+{"id":"1666","name":"Saanen Airport","city":"Saanen","country":"Switzerland","iata":"\\N","icao":"LSGK","latitude":"46.4874992371","longitude":"7.25083017349","altitude":"3307","timezone":"1","dst":"E","tz":"Europe/Zurich"}
 ,
 {"id":"1668","name":"Alpnach Air Base","city":"Alpnach","country":"Switzerland","iata":"\\N","icao":"LSMA","latitude":"46.943901","longitude":"8.28417","altitude":"1460","timezone":"1","dst":"E","tz":"Europe/Zurich"}
 ,
@@ -3371,9 +3371,9 @@
 ,
 {"id":"1739","name":"Belgrade Nikola Tesla Airport","city":"Belgrade","country":"Serbia","iata":"BEG","icao":"LYBE","latitude":"44.8184013367","longitude":"20.3090991974","altitude":"335","timezone":"1","dst":"E","tz":"Europe/Belgrade"}
 ,
-{"id":"1740","name":"Nis Airport","city":"Nis","country":"Serbia","iata":"INI","icao":"LYNI","latitude":"43.337299","longitude":"21.853701","altitude":"648","timezone":"1","dst":"E","tz":"Europe/Belgrade"}
-,
 {"id":"1741","name":"Podgorica Airport","city":"Podgorica","country":"Montenegro","iata":"TGD","icao":"LYPG","latitude":"42.359402","longitude":"19.2519","altitude":"141","timezone":"1","dst":"E","tz":"Europe/Podgorica"}
+,
+{"id":"1740","name":"Nis Airport","city":"Nis","country":"Serbia","iata":"INI","icao":"LYNI","latitude":"43.337299","longitude":"21.853701","altitude":"648","timezone":"1","dst":"E","tz":"Europe/Belgrade"}
 ,
 {"id":"1742","name":"Priština International Airport","city":"Pristina","country":"Serbia","iata":"PRN","icao":"BKPR","latitude":"42.5728","longitude":"21.035801","altitude":"1789","timezone":"1","dst":"E","tz":"Europe/Belgrade"}
 ,
@@ -3499,9 +3499,9 @@
 ,
 {"id":"1806","name":"Tehuacan Airport","city":"Tehuacan","country":"Mexico","iata":"TCN","icao":"MMHC","latitude":"18.49720001220703","longitude":"-97.4198989868164","altitude":"5509","timezone":"-6","dst":"S","tz":"America/Mexico_City"}
 ,
-{"id":"1807","name":"General Ignacio P. Garcia International Airport","city":"Hermosillo","country":"Mexico","iata":"HMO","icao":"MMHO","latitude":"29.095899581900003","longitude":"-111.047996521","altitude":"627","timezone":"-7","dst":"S","tz":"America/Hermosillo"}
-,
 {"id":"1808","name":"Licenciado Miguel de la Madrid Airport","city":"Colima","country":"Mexico","iata":"CLQ","icao":"MMIA","latitude":"19.277","longitude":"-103.577002","altitude":"2467","timezone":"-6","dst":"S","tz":"America/Mexico_City"}
+,
+{"id":"1807","name":"General Ignacio P. Garcia International Airport","city":"Hermosillo","country":"Mexico","iata":"HMO","icao":"MMHO","latitude":"29.095899581900003","longitude":"-111.047996521","altitude":"627","timezone":"-7","dst":"S","tz":"America/Hermosillo"}
 ,
 {"id":"1809","name":"Isla Mujeres Airport","city":"Isla Mujeres","country":"Mexico","iata":"ISJ","icao":"MMIM","latitude":"21.2450008392334","longitude":"-86.73999786376953","altitude":"7","timezone":"-5","dst":"S","tz":"America/Cancun"}
 ,
@@ -3659,9 +3659,9 @@
 ,
 {"id":"1890","name":"Santa Clara De Guapiles Airport","city":"Santa Clara","country":"Costa Rica","iata":"\\N","icao":"MRSG","latitude":"10.288299560546875","longitude":"-83.7135009765625","altitude":"262","timezone":"-6","dst":"U","tz":"America/Costa_Rica"}
 ,
-{"id":"1891","name":"San Vito De Java Airport","city":"San Vito De Jaba","country":"Costa Rica","iata":"TOO","icao":"MRSV","latitude":"8.826109886169434","longitude":"-82.95890045166016","altitude":"3228","timezone":"-6","dst":"U","tz":"America/Costa_Rica"}
-,
 {"id":"1892","name":"Monseñor Óscar Arnulfo Romero International Airport","city":"San Salvador","country":"El Salvador","iata":"SAL","icao":"MSLP","latitude":"13.4409","longitude":"-89.055702","altitude":"101","timezone":"-6","dst":"U","tz":"America/El_Salvador"}
+,
+{"id":"1891","name":"San Vito De Java Airport","city":"San Vito De Jaba","country":"Costa Rica","iata":"TOO","icao":"MRSV","latitude":"8.826109886169434","longitude":"-82.95890045166016","altitude":"3228","timezone":"-6","dst":"U","tz":"America/Costa_Rica"}
 ,
 {"id":"1893","name":"Ilopango International Airport","city":"San Salvador","country":"El Salvador","iata":"\\N","icao":"MSSS","latitude":"13.69950008392334","longitude":"-89.11990356445312","altitude":"2021","timezone":"-6","dst":"U","tz":"America/El_Salvador"}
 ,
@@ -3787,9 +3787,9 @@
 ,
 {"id":"1959","name":"Rarotonga International Airport","city":"Avarua","country":"Cook Islands","iata":"RAR","icao":"NCRG","latitude":"-21.2026996613","longitude":"-159.805999756","altitude":"19","timezone":"-10","dst":"U","tz":"Pacific/Rarotonga"}
 ,
-{"id":"1960","name":"Nadi International Airport","city":"Nandi","country":"Fiji","iata":"NAN","icao":"NFFN","latitude":"-17.755399703979492","longitude":"177.4429931640625","altitude":"59","timezone":"12","dst":"U","tz":"Pacific/Fiji"}
-,
 {"id":"1961","name":"Nausori International Airport","city":"Nausori","country":"Fiji","iata":"SUV","icao":"NFNA","latitude":"-18.04330062866211","longitude":"178.5590057373047","altitude":"17","timezone":"12","dst":"U","tz":"Pacific/Fiji"}
+,
+{"id":"1960","name":"Nadi International Airport","city":"Nandi","country":"Fiji","iata":"NAN","icao":"NFFN","latitude":"-17.755399703979492","longitude":"177.4429931640625","altitude":"59","timezone":"12","dst":"U","tz":"Pacific/Fiji"}
 ,
 {"id":"1963","name":"Fua'amotu International Airport","city":"Tongatapu","country":"Tonga","iata":"TBU","icao":"NFTF","latitude":"-21.241199493408203","longitude":"-175.14999389648438","altitude":"126","timezone":"13","dst":"U","tz":"Pacific/Tongatapu"}
 ,
@@ -3915,9 +3915,9 @@
 ,
 {"id":"2027","name":"Oamaru Airport","city":"Oamaru","country":"New Zealand","iata":"OAM","icao":"NZOU","latitude":"-44.970001220703125","longitude":"171.08200073242188","altitude":"99","timezone":"12","dst":"Z","tz":"Pacific/Auckland"}
 ,
-{"id":"2028","name":"Palmerston North Airport","city":"Palmerston North","country":"New Zealand","iata":"PMR","icao":"NZPM","latitude":"-40.32059860229492","longitude":"175.61700439453125","altitude":"151","timezone":"12","dst":"Z","tz":"Pacific/Auckland"}
-,
 {"id":"2029","name":"Paraparaumu Airport","city":"Paraparaumu","country":"New Zealand","iata":"PPQ","icao":"NZPP","latitude":"-40.904701232910156","longitude":"174.98899841308594","altitude":"22","timezone":"12","dst":"Z","tz":"Pacific/Auckland"}
+,
+{"id":"2028","name":"Palmerston North Airport","city":"Palmerston North","country":"New Zealand","iata":"PMR","icao":"NZPM","latitude":"-40.32059860229492","longitude":"175.61700439453125","altitude":"151","timezone":"12","dst":"Z","tz":"Pacific/Auckland"}
 ,
 {"id":"2030","name":"Queenstown International Airport","city":"Queenstown International","country":"New Zealand","iata":"ZQN","icao":"NZQN","latitude":"-45.0210990906","longitude":"168.738998413","altitude":"1171","timezone":"12","dst":"Z","tz":"Pacific/Auckland"}
 ,
@@ -4043,9 +4043,9 @@
 ,
 {"id":"2092","name":"Ras Tanajib Airport","city":"Ras Tanajib","country":"Saudi Arabia","iata":"\\N","icao":"OETN","latitude":"27.867799758911133","longitude":"48.769100189208984","altitude":"30","timezone":"3","dst":"U","tz":"Asia/Riyadh"}
 ,
-{"id":"2093","name":"Turaif Domestic Airport","city":"Turaif","country":"Saudi Arabia","iata":"TUI","icao":"OETR","latitude":"31.692188","longitude":"38.731544","altitude":"2803","timezone":"3","dst":"U","tz":"Asia/Riyadh"}
-,
 {"id":"2095","name":"Al Wajh Domestic Airport","city":"Wejh","country":"Saudi Arabia","iata":"EJH","icao":"OEWJ","latitude":"26.19860076904297","longitude":"36.47639846801758","altitude":"66","timezone":"3","dst":"U","tz":"Asia/Riyadh"}
+,
+{"id":"2093","name":"Turaif Domestic Airport","city":"Turaif","country":"Saudi Arabia","iata":"TUI","icao":"OETR","latitude":"31.692188","longitude":"38.731544","altitude":"2803","timezone":"3","dst":"U","tz":"Asia/Riyadh"}
 ,
 {"id":"2096","name":"Prince Abdulmohsin Bin Abdulaziz Airport","city":"Yenbo","country":"Saudi Arabia","iata":"YNB","icao":"OEYN","latitude":"24.144199","longitude":"38.0634","altitude":"26","timezone":"3","dst":"U","tz":"Asia/Riyadh"}
 ,
@@ -4171,9 +4171,9 @@
 ,
 {"id":"2172","name":"Aqaba King Hussein International Airport","city":"Aqaba","country":"Jordan","iata":"AQJ","icao":"OJAQ","latitude":"29.611600875854492","longitude":"35.01810073852539","altitude":"175","timezone":"2","dst":"E","tz":"Asia/Amman"}
 ,
-{"id":"2173","name":"Prince Hassan Air Base","city":"Hotel Four","country":"Jordan","iata":"\\N","icao":"OJHF","latitude":"32.160702","longitude":"37.149399","altitude":"2220","timezone":"2","dst":"E","tz":"Asia/Amman"}
-,
 {"id":"2174","name":"Jerusalem Airport","city":"Jerusalem","country":"West Bank","iata":"\\N","icao":"OJJR","latitude":"31.864700317383","longitude":"35.219200134277","altitude":"2485","timezone":"2","dst":"U","tz":"Asia/Jerusalem"}
+,
+{"id":"2173","name":"Prince Hassan Air Base","city":"Hotel Four","country":"Jordan","iata":"\\N","icao":"OJHF","latitude":"32.160702","longitude":"37.149399","altitude":"2220","timezone":"2","dst":"E","tz":"Asia/Amman"}
 ,
 {"id":"2175","name":"King Hussein Air College","city":"Mafraq","country":"Jordan","iata":"OMF","icao":"OJMF","latitude":"32.3564","longitude":"36.259201","altitude":"2240","timezone":"2","dst":"E","tz":"Asia/Amman"}
 ,
@@ -4291,7 +4291,7 @@
 ,
 {"id":"2240","name":"Palmyra Airport","city":"Palmyra","country":"Syria","iata":"PMS","icao":"OSPR","latitude":"34.5574","longitude":"38.316898","altitude":"1322","timezone":"2","dst":"E","tz":"Asia/Damascus"}
 ,
-{"id":"2241","name":"Doha International Airport","city":"Doha","country":"Qatar","iata":"\\N","icao":"OTBD","latitude":"25.261101","longitude":"51.565102","altitude":"35","timezone":"3","dst":"U","tz":"Asia/Qatar"}
+{"id":"2241","name":"Hamad International Airport","city":"Doha","country":"Qatar","iata":"DOH","icao":"OTBD","latitude":"25.261101","longitude":"51.565102","altitude":"35","timezone":"3"}
 ,
 {"id":"2242","name":"Canton Island Airport","city":"Canton Island","country":"Kiribati","iata":"CIS","icao":"PCIS","latitude":"-2.7681200504300003","longitude":"-171.710006714","altitude":"9","timezone":"13","dst":"U","tz":"Pacific/Enderbury"}
 ,
@@ -4331,9 +4331,9 @@
 ,
 {"id":"2261","name":"Longtan Air Base","city":"Longtang","country":"Taiwan","iata":"\\N","icao":"RCDI","latitude":"24.855100631713867","longitude":"121.23799896240234","altitude":"790","timezone":"8","dst":"U","tz":"Asia/Taipei"}
 ,
-{"id":"2262","name":"Taitung Airport","city":"Fengnin","country":"Taiwan","iata":"TTT","icao":"RCFN","latitude":"22.7549991607666","longitude":"121.10199737548828","altitude":"143","timezone":"8","dst":"U","tz":"Asia/Taipei"}
-,
 {"id":"2263","name":"Lyudao Airport","city":"Green Island","country":"Taiwan","iata":"GNI","icao":"RCGI","latitude":"22.673900604248047","longitude":"121.46600341796875","altitude":"28","timezone":"8","dst":"U","tz":"Asia/Taipei"}
+,
+{"id":"2262","name":"Taitung Airport","city":"Fengnin","country":"Taiwan","iata":"TTT","icao":"RCFN","latitude":"22.7549991607666","longitude":"121.10199737548828","altitude":"143","timezone":"8","dst":"U","tz":"Asia/Taipei"}
 ,
 {"id":"2264","name":"Kaohsiung International Airport","city":"Kaohsiung","country":"Taiwan","iata":"KHH","icao":"RCKH","latitude":"22.57710075378418","longitude":"120.3499984741211","altitude":"31","timezone":"8","dst":"U","tz":"Asia/Taipei"}
 ,
@@ -4459,9 +4459,9 @@
 ,
 {"id":"2328","name":"Izumo Airport","city":"Izumo","country":"Japan","iata":"IZO","icao":"RJOC","latitude":"35.4136009216","longitude":"132.88999939","altitude":"15","timezone":"9","dst":"U","tz":"Asia/Tokyo"}
 ,
-{"id":"2329","name":"Hofu Airport","city":"Hofu","country":"Japan","iata":"\\N","icao":"RJOF","latitude":"34.034698486328125","longitude":"131.5489959716797","altitude":"7","timezone":"9","dst":"U","tz":"Asia/Tokyo"}
-,
 {"id":"2330","name":"Miho Yonago Airport","city":"Miho","country":"Japan","iata":"YGJ","icao":"RJOH","latitude":"35.4921989440918","longitude":"133.23599243164062","altitude":"20","timezone":"9","dst":"U","tz":"Asia/Tokyo"}
+,
+{"id":"2329","name":"Hofu Airport","city":"Hofu","country":"Japan","iata":"\\N","icao":"RJOF","latitude":"34.034698486328125","longitude":"131.5489959716797","altitude":"7","timezone":"9","dst":"U","tz":"Asia/Tokyo"}
 ,
 {"id":"2332","name":"Kōchi Ryōma Airport","city":"Kochi","country":"Japan","iata":"KCZ","icao":"RJOK","latitude":"33.546101","longitude":"133.669006","altitude":"42","timezone":"9","dst":"U","tz":"Asia/Tokyo"}
 ,
@@ -4619,9 +4619,9 @@
 ,
 {"id":"2428","name":"Guiuan Airport","city":"Guiuan","country":"Philippines","iata":"\\N","icao":"RPVG","latitude":"11.0354995728","longitude":"125.741996765","altitude":"7","timezone":"8","dst":"N","tz":"Asia/Manila"}
 ,
-{"id":"2429","name":"Iloilo International Airport","city":"Iloilo","country":"Philippines","iata":"ILO","icao":"RPVI","latitude":"10.833017","longitude":"122.493358","altitude":"27","timezone":"8","dst":"N","tz":"Asia/Manila"}
-,
 {"id":"2430","name":"Kalibo International Airport","city":"Kalibo","country":"Philippines","iata":"KLO","icao":"RPVK","latitude":"11.679400444","longitude":"122.375999451","altitude":"14","timezone":"8","dst":"N","tz":"Asia/Manila"}
+,
+{"id":"2429","name":"Iloilo International Airport","city":"Iloilo","country":"Philippines","iata":"ILO","icao":"RPVI","latitude":"10.833017","longitude":"122.493358","altitude":"27","timezone":"8","dst":"N","tz":"Asia/Manila"}
 ,
 {"id":"2433","name":"Puerto Princesa Airport","city":"Puerto Princesa","country":"Philippines","iata":"PPS","icao":"RPVP","latitude":"9.742119789123535","longitude":"118.75900268554688","altitude":"71","timezone":"8","dst":"N","tz":"Asia/Manila"}
 ,
@@ -4747,9 +4747,9 @@
 ,
 {"id":"2498","name":"Capitan D Daniel Vazquez Airport","city":"San Julian","country":"Argentina","iata":"ULA","icao":"SAWJ","latitude":"-49.3068","longitude":"-67.8026","altitude":"203","timezone":"-3","dst":"N","tz":"America/Argentina/Rio_Gallegos"}
 ,
-{"id":"2499","name":"Perito Moreno Airport","city":"Perito Moreno","country":"Argentina","iata":"PMQ","icao":"SAWP","latitude":"-46.537899","longitude":"-70.978699","altitude":"1410","timezone":"-3","dst":"N","tz":"America/Argentina/Rio_Gallegos"}
-,
 {"id":"2500","name":"Santa Cruz Airport","city":"Santa Cruz","country":"Argentina","iata":"RZA","icao":"SAWU","latitude":"-50.0165","longitude":"-68.5792","altitude":"364","timezone":"-3","dst":"N","tz":"America/Argentina/Rio_Gallegos"}
+,
+{"id":"2499","name":"Perito Moreno Airport","city":"Perito Moreno","country":"Argentina","iata":"PMQ","icao":"SAWP","latitude":"-46.537899","longitude":"-70.978699","altitude":"1410","timezone":"-3","dst":"N","tz":"America/Argentina/Rio_Gallegos"}
 ,
 {"id":"2501","name":"Comandante Espora Airport","city":"Bahia Blanca","country":"Argentina","iata":"BHI","icao":"SAZB","latitude":"-38.725","longitude":"-62.1693","altitude":"246","timezone":"-3","dst":"N","tz":"America/Buenos_Aires"}
 ,
@@ -4907,9 +4907,9 @@
 ,
 {"id":"2582","name":"Bom Jesus da Lapa Airport","city":"Bom Jesus Da Lapa","country":"Brazil","iata":"LAZ","icao":"SBLP","latitude":"-13.2621002197","longitude":"-43.4081001282","altitude":"1454","timezone":"-3","dst":"S","tz":"America/Fortaleza"}
 ,
-{"id":"2583","name":"Lagoa Santa Airport","city":"Lagoa Santa","country":"Brazil","iata":"\\N","icao":"SBLS","latitude":"-19.66160011291504","longitude":"-43.896400451660156","altitude":"2795","timezone":"-3","dst":"S","tz":"America/Sao_Paulo"}
-,
 {"id":"2584","name":"João Correa da Rocha Airport","city":"Maraba","country":"Brazil","iata":"MAB","icao":"SBMA","latitude":"-5.36858987808","longitude":"-49.138000488299994","altitude":"357","timezone":"-3","dst":"S","tz":"America/Belem"}
+,
+{"id":"2583","name":"Lagoa Santa Airport","city":"Lagoa Santa","country":"Brazil","iata":"\\N","icao":"SBLS","latitude":"-19.66160011291504","longitude":"-43.896400451660156","altitude":"2795","timezone":"-3","dst":"S","tz":"America/Sao_Paulo"}
 ,
 {"id":"2585","name":"Monte Dourado Airport","city":"Almeirim","country":"Brazil","iata":"MEU","icao":"SBMD","latitude":"-0.889839","longitude":"-52.6022","altitude":"677","timezone":"-3","dst":"S","tz":"America/Belem"}
 ,
@@ -5035,9 +5035,9 @@
 ,
 {"id":"2651","name":"Cerro Moreno Airport","city":"Antofagasta","country":"Chile","iata":"ANF","icao":"SCFA","latitude":"-23.444499969482422","longitude":"-70.44509887695312","altitude":"455","timezone":"-4","dst":"S","tz":"America/Santiago"}
 ,
-{"id":"2652","name":"Capitan Fuentes Martinez Airport Airport","city":"Porvenir","country":"Chile","iata":"WPR","icao":"SCFM","latitude":"-53.253700256347656","longitude":"-70.31919860839844","altitude":"104","timezone":"-4","dst":"S","tz":"America/Santiago"}
-,
 {"id":"2653","name":"Futaleufú Airport","city":"Futaleufu","country":"Chile","iata":"FFU","icao":"SCFT","latitude":"-43.18920135498047","longitude":"-71.8510971069336","altitude":"1148","timezone":"-4","dst":"S","tz":"America/Santiago"}
+,
+{"id":"2652","name":"Capitan Fuentes Martinez Airport Airport","city":"Porvenir","country":"Chile","iata":"WPR","icao":"SCFM","latitude":"-53.253700256347656","longitude":"-70.31919860839844","altitude":"104","timezone":"-4","dst":"S","tz":"America/Santiago"}
 ,
 {"id":"2654","name":"María Dolores Airport","city":"Los Angeles","country":"Chile","iata":"LSQ","icao":"SCGE","latitude":"-37.40169906616211","longitude":"-72.42539978027344","altitude":"374","timezone":"-4","dst":"S","tz":"America/Santiago"}
 ,
@@ -5163,9 +5163,9 @@
 ,
 {"id":"2717","name":"Las Brujas Airport","city":"Corozal","country":"Colombia","iata":"CZU","icao":"SKCZ","latitude":"9.33274","longitude":"-75.2856","altitude":"528","timezone":"-5","dst":"U","tz":"America/Bogota"}
 ,
-{"id":"2718","name":"Yariguíes Airport","city":"Barrancabermeja","country":"Colombia","iata":"EJA","icao":"SKEJ","latitude":"7.02433","longitude":"-73.8068","altitude":"412","timezone":"-5","dst":"U","tz":"America/Bogota"}
-,
 {"id":"2719","name":"Gustavo Artunduaga Paredes Airport","city":"Florencia","country":"Colombia","iata":"FLA","icao":"SKFL","latitude":"1.58919","longitude":"-75.5644","altitude":"803","timezone":"-5","dst":"U","tz":"America/Bogota"}
+,
+{"id":"2718","name":"Yariguíes Airport","city":"Barrancabermeja","country":"Colombia","iata":"EJA","icao":"SKEJ","latitude":"7.02433","longitude":"-73.8068","altitude":"412","timezone":"-5","dst":"U","tz":"America/Bogota"}
 ,
 {"id":"2720","name":"Santiago Vila Airport","city":"Girardot","country":"Colombia","iata":"GIR","icao":"SKGI","latitude":"4.27624","longitude":"-74.7967","altitude":"900","timezone":"-5","dst":"U","tz":"America/Bogota"}
 ,
@@ -5291,9 +5291,9 @@
 ,
 {"id":"2784","name":"Cesar Torke Podesta Airport","city":"Moquegua","country":"Peru","iata":"\\N","icao":"SPEQ","latitude":"-17.179000854492188","longitude":"-70.93080139160156","altitude":"4480","timezone":"-5","dst":"U","tz":"America/Lima"}
 ,
-{"id":"2785","name":"Capitan FAP Jose A Quinones Gonzales International Airport","city":"Chiclayo","country":"Peru","iata":"CIX","icao":"SPHI","latitude":"-6.787479877471924","longitude":"-79.8281021118164","altitude":"97","timezone":"-5","dst":"U","tz":"America/Lima"}
-,
 {"id":"2786","name":"Coronel FAP Alfredo Mendivil Duarte Airport","city":"Ayacucho","country":"Peru","iata":"AYP","icao":"SPHO","latitude":"-13.154800415039062","longitude":"-74.20439910888672","altitude":"8917","timezone":"-5","dst":"U","tz":"America/Lima"}
+,
+{"id":"2785","name":"Capitan FAP Jose A Quinones Gonzales International Airport","city":"Chiclayo","country":"Peru","iata":"CIX","icao":"SPHI","latitude":"-6.787479877471924","longitude":"-79.8281021118164","altitude":"97","timezone":"-5","dst":"U","tz":"America/Lima"}
 ,
 {"id":"2787","name":"Andahuaylas Airport","city":"Andahuaylas","country":"Peru","iata":"ANS","icao":"SPHY","latitude":"-13.706399917602539","longitude":"-73.35040283203125","altitude":"11300","timezone":"-5","dst":"U","tz":"America/Lima"}
 ,
@@ -5451,9 +5451,9 @@
 ,
 {"id":"2870","name":"Dr. Antonio Nicolás Briceño Airport","city":"Valera","country":"Venezuela","iata":"VLV","icao":"SVVL","latitude":"9.34047794342041","longitude":"-70.58406066894531","altitude":"2060","timezone":"-4","dst":"U","tz":"America/Caracas"}
 ,
-{"id":"2871","name":"Valle de La Pascua Airport","city":"Valle De La Pascua","country":"Venezuela","iata":"VDP","icao":"SVVP","latitude":"9.22202777863","longitude":"-65.9935836792","altitude":"410","timezone":"-4","dst":"U","tz":"America/Caracas"}
-,
 {"id":"2872","name":"Linden Airport","city":"Linden","country":"Guyana","iata":"\\N","icao":"SYLD","latitude":"5.96592","longitude":"-58.270302","altitude":"180","timezone":"-4","dst":"U","tz":"America/Guyana"}
+,
+{"id":"2871","name":"Valle de La Pascua Airport","city":"Valle De La Pascua","country":"Venezuela","iata":"VDP","icao":"SVVP","latitude":"9.22202777863","longitude":"-65.9935836792","altitude":"410","timezone":"-4","dst":"U","tz":"America/Caracas"}
 ,
 {"id":"2873","name":"Lethem Airport","city":"Lethem","country":"Guyana","iata":"LTM","icao":"SYLT","latitude":"3.37276","longitude":"-59.789398","altitude":"351","timezone":"-4","dst":"U","tz":"America/Guyana"}
 ,
@@ -5579,9 +5579,9 @@
 ,
 {"id":"2942","name":"Simferopol International Airport","city":"Simferopol","country":"Ukraine","iata":"SIP","icao":"UKFF","latitude":"45.05220031738281","longitude":"33.975101470947266","altitude":"639","timezone":"3","dst":"E","tz":"Europe/Simferopol"}
 ,
-{"id":"2944","name":"Kiev Zhuliany International Airport","city":"Kiev","country":"Ukraine","iata":"IEV","icao":"UKKK","latitude":"50.40194","longitude":"30.45194","altitude":"587","timezone":"2","dst":"E","tz":"Europe/Kiev"}
-,
 {"id":"2945","name":"Lviv International Airport","city":"Lvov","country":"Ukraine","iata":"LWO","icao":"UKLL","latitude":"49.8125","longitude":"23.956100463867188","altitude":"1071","timezone":"2","dst":"E","tz":"Europe/Kiev"}
+,
+{"id":"2944","name":"Kiev Zhuliany International Airport","city":"Kiev","country":"Ukraine","iata":"IEV","icao":"UKKK","latitude":"50.40194","longitude":"30.45194","altitude":"587","timezone":"2","dst":"E","tz":"Europe/Kiev"}
 ,
 {"id":"2947","name":"Odessa International Airport","city":"Odessa","country":"Ukraine","iata":"ODS","icao":"UKOO","latitude":"46.42679977416992","longitude":"30.67650032043457","altitude":"172","timezone":"2","dst":"E","tz":"Europe/Kiev"}
 ,
@@ -5707,9 +5707,9 @@
 ,
 {"id":"3012","name":"Khajuraho Airport","city":"Khajuraho","country":"India","iata":"HJR","icao":"VAKJ","latitude":"24.817199707","longitude":"79.91860198970001","altitude":"728","timezone":"5.5","dst":"N","tz":"Asia/Calcutta"}
 ,
-{"id":"3013","name":"Kolhapur Airport","city":"Kolhapur","country":"India","iata":"KLH","icao":"VAKP","latitude":"16.6646995544","longitude":"74.2893981934","altitude":"1996","timezone":"5.5","dst":"N","tz":"Asia/Calcutta"}
-,
 {"id":"3014","name":"Keshod Airport","city":"Keshod","country":"India","iata":"IXK","icao":"VAKS","latitude":"21.317100524902344","longitude":"70.27040100097656","altitude":"167","timezone":"5.5","dst":"N","tz":"Asia/Calcutta"}
+,
+{"id":"3013","name":"Kolhapur Airport","city":"Kolhapur","country":"India","iata":"KLH","icao":"VAKP","latitude":"16.6646995544","longitude":"74.2893981934","altitude":"1996","timezone":"5.5","dst":"N","tz":"Asia/Calcutta"}
 ,
 {"id":"3015","name":"Dr. Babasaheb Ambedkar International Airport","city":"Nagpur","country":"India","iata":"NAG","icao":"VANP","latitude":"21.092199325561523","longitude":"79.04720306396484","altitude":"1033","timezone":"5.5","dst":"N","tz":"Asia/Calcutta"}
 ,
@@ -5835,9 +5835,9 @@
 ,
 {"id":"3080","name":"Allahabad Airport","city":"Allahabad","country":"India","iata":"IXD","icao":"VIAL","latitude":"25.440099716186523","longitude":"81.73390197753906","altitude":"322","timezone":"5.5","dst":"N","tz":"Asia/Calcutta"}
 ,
-{"id":"3081","name":"Sri Guru Ram Dass Jee International Airport","city":"Amritsar","country":"India","iata":"ATQ","icao":"VIAR","latitude":"31.7096004486","longitude":"74.7973022461","altitude":"756","timezone":"5.5","dst":"N","tz":"Asia/Calcutta"}
-,
 {"id":"3082","name":"Nal Airport","city":"Bikaner","country":"India","iata":"BKB","icao":"VIBK","latitude":"28.070600509643555","longitude":"73.20719909667969","altitude":"750","timezone":"5.5","dst":"N","tz":"Asia/Calcutta"}
+,
+{"id":"3081","name":"Sri Guru Ram Dass Jee International Airport","city":"Amritsar","country":"India","iata":"ATQ","icao":"VIAR","latitude":"31.7096004486","longitude":"74.7973022461","altitude":"756","timezone":"5.5","dst":"N","tz":"Asia/Calcutta"}
 ,
 {"id":"3083","name":"Bakshi Ka Talab Air Force Station","city":"Bakshi Ka Talab","country":"India","iata":"\\N","icao":"VIBL","latitude":"26.988300323486328","longitude":"80.89309692382812","altitude":"385","timezone":"5.5","dst":"N","tz":"Asia/Calcutta"}
 ,
@@ -5995,9 +5995,9 @@
 ,
 {"id":"3165","name":"Hua Hin Airport","city":"Prachuap Khiri Khan","country":"Thailand","iata":"HHQ","icao":"VTPH","latitude":"12.6361999512","longitude":"99.951499939","altitude":"62","timezone":"7","dst":"U","tz":"Asia/Bangkok"}
 ,
-{"id":"3166","name":"Takhli Airport","city":"Nakhon Sawan","country":"Thailand","iata":"TKH","icao":"VTPI","latitude":"15.277299881","longitude":"100.29599762","altitude":"107","timezone":"7","dst":"U","tz":"Asia/Bangkok"}
-,
 {"id":"3167","name":"Sak Long Airport","city":"Phetchabun","country":"Thailand","iata":"\\N","icao":"VTPL","latitude":"16.82430076599121","longitude":"101.2509994506836","altitude":"500","timezone":"7","dst":"U","tz":"Asia/Bangkok"}
+,
+{"id":"3166","name":"Takhli Airport","city":"Nakhon Sawan","country":"Thailand","iata":"TKH","icao":"VTPI","latitude":"15.277299881","longitude":"100.29599762","altitude":"107","timezone":"7","dst":"U","tz":"Asia/Bangkok"}
 ,
 {"id":"3169","name":"Nakhon Sawan Airport","city":"Nakhon Sawan","country":"Thailand","iata":"\\N","icao":"VTPN","latitude":"15.67300033569336","longitude":"100.13700103759766","altitude":"113","timezone":"7","dst":"U","tz":"Asia/Bangkok"}
 ,
@@ -6123,9 +6123,9 @@
 ,
 {"id":"3247","name":"Jalaluddin Airport","city":"Gorontalo","country":"Indonesia","iata":"GTO","icao":"WAMG","latitude":"0.63711899519","longitude":"122.849998474","altitude":"105","timezone":"8","dst":"N","tz":"Asia/Makassar"}
 ,
-{"id":"3249","name":"Mutiara Airport","city":"Palu","country":"Indonesia","iata":"PLW","icao":"WAML","latitude":"-0.9185420274734497","longitude":"119.91000366210938","altitude":"284","timezone":"8","dst":"N","tz":"Asia/Makassar"}
-,
 {"id":"3250","name":"Sam Ratulangi Airport","city":"Manado","country":"Indonesia","iata":"MDC","icao":"WAMM","latitude":"1.5492600202560425","longitude":"124.9260025024414","altitude":"264","timezone":"8","dst":"N","tz":"Asia/Makassar"}
+,
+{"id":"3249","name":"Mutiara Airport","city":"Palu","country":"Indonesia","iata":"PLW","icao":"WAML","latitude":"-0.9185420274734497","longitude":"119.91000366210938","altitude":"284","timezone":"8","dst":"N","tz":"Asia/Makassar"}
 ,
 {"id":"3251","name":"Kasiguncu Airport","city":"Poso","country":"Indonesia","iata":"PSJ","icao":"WAMP","latitude":"-1.41674995422","longitude":"120.657997131","altitude":"174","timezone":"8","dst":"N","tz":"Asia/Makassar"}
 ,
@@ -6283,9 +6283,9 @@
 ,
 {"id":"3335","name":"RAAF Base East Sale","city":"East Sale","country":"Australia","iata":"\\N","icao":"YMES","latitude":"-38.098899841299996","longitude":"147.149002075","altitude":"23","timezone":"10","dst":"O","tz":"Australia/Hobart"}
 ,
-{"id":"3336","name":"Hobart International Airport","city":"Hobart","country":"Australia","iata":"HBA","icao":"YMHB","latitude":"-42.836101532","longitude":"147.509994507","altitude":"13","timezone":"10","dst":"O","tz":"Australia/Melbourne"}
-,
 {"id":"3337","name":"Launceston Airport","city":"Launceston","country":"Australia","iata":"LST","icao":"YMLT","latitude":"-41.54529953","longitude":"147.214004517","altitude":"562","timezone":"10","dst":"O","tz":"Australia/Melbourne"}
+,
+{"id":"3336","name":"Hobart International Airport","city":"Hobart","country":"Australia","iata":"HBA","icao":"YMHB","latitude":"-42.836101532","longitude":"147.509994507","altitude":"13","timezone":"10","dst":"O","tz":"Australia/Melbourne"}
 ,
 {"id":"3338","name":"Melbourne Moorabbin Airport","city":"Melbourne","country":"Australia","iata":"MBW","icao":"YMMB","latitude":"-37.975799560546875","longitude":"145.1020050048828","altitude":"50","timezone":"10","dst":"O","tz":"Australia/Hobart"}
 ,
@@ -6411,9 +6411,9 @@
 ,
 {"id":"3404","name":"Zhoushuizi Airport","city":"Dalian","country":"China","iata":"DLC","icao":"ZYTL","latitude":"38.9656982421875","longitude":"121.53900146484375","altitude":"107","timezone":"8","dst":"U","tz":"Asia/Shanghai"}
 ,
-{"id":"3406","name":"Shanghai Pudong International Airport","city":"Shanghai","country":"China","iata":"PVG","icao":"ZSPD","latitude":"31.143400192260742","longitude":"121.80500030517578","altitude":"13","timezone":"8","dst":"U","tz":"Asia/Shanghai"}
-,
 {"id":"3407","name":"Pulau Tioman Airport","city":"Tioman","country":"Malaysia","iata":"TOD","icao":"WMBT","latitude":"2.8181800842285156","longitude":"104.16000366210938","altitude":"15","timezone":"8","dst":"N","tz":"Asia/Kuala_Lumpur"}
+,
+{"id":"3406","name":"Shanghai Pudong International Airport","city":"Shanghai","country":"China","iata":"PVG","icao":"ZSPD","latitude":"31.143400192260742","longitude":"121.80500030517578","altitude":"13","timezone":"8","dst":"U","tz":"Asia/Shanghai"}
 ,
 {"id":"3408","name":"Sultan Abdul Aziz Shah International Airport","city":"Kuala Lumpur","country":"Malaysia","iata":"SZB","icao":"WMSA","latitude":"3.130579948425293","longitude":"101.54900360107422","altitude":"90","timezone":"8","dst":"N","tz":"Asia/Kuala_Lumpur"}
 ,
@@ -6539,9 +6539,9 @@
 ,
 {"id":"3469","name":"San Francisco International Airport","city":"San Francisco","country":"United States","iata":"SFO","icao":"KSFO","latitude":"37.61899948120117","longitude":"-122.375","altitude":"13","timezone":"-8","dst":"A","tz":"America/Los_Angeles"}
 ,
-{"id":"3470","name":"Cut Bank International Airport","city":"Cutbank","country":"United States","iata":"CTB","icao":"KCTB","latitude":"48.6083984375","longitude":"-112.375999451","altitude":"3854","timezone":"-7","dst":"A","tz":"America/Denver"}
-,
 {"id":"3471","name":"Acadiana Regional Airport","city":"Louisiana","country":"United States","iata":"ARA","icao":"KARA","latitude":"30.0378","longitude":"-91.883904","altitude":"24","timezone":"-6","dst":"A","tz":"America/Chicago"}
+,
+{"id":"3470","name":"Cut Bank International Airport","city":"Cutbank","country":"United States","iata":"CTB","icao":"KCTB","latitude":"48.6083984375","longitude":"-112.375999451","altitude":"3854","timezone":"-7","dst":"A","tz":"America/Denver"}
 ,
 {"id":"3472","name":"Gainesville Regional Airport","city":"Gainesville","country":"United States","iata":"GNV","icao":"KGNV","latitude":"29.6900997162","longitude":"-82.2717971802","altitude":"152","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
@@ -6667,9 +6667,9 @@
 ,
 {"id":"3534","name":"Muskogee-Davis Regional Airport","city":"Muskogee","country":"United States","iata":"\\N","icao":"KMKO","latitude":"35.656502","longitude":"-95.366699","altitude":"611","timezone":"-6","dst":"A","tz":"America/Chicago"}
 ,
-{"id":"3535","name":"Falls International Airport","city":"International Falls","country":"United States","iata":"INL","icao":"KINL","latitude":"48.566200256347656","longitude":"-93.4030990600586","altitude":"1185","timezone":"-6","dst":"A","tz":"America/Chicago"}
-,
 {"id":"3536","name":"Salt Lake City International Airport","city":"Salt Lake City","country":"United States","iata":"SLC","icao":"KSLC","latitude":"40.78839874267578","longitude":"-111.97799682617188","altitude":"4227","timezone":"-7","dst":"A","tz":"America/Denver"}
+,
+{"id":"3535","name":"Falls International Airport","city":"International Falls","country":"United States","iata":"INL","icao":"KINL","latitude":"48.566200256347656","longitude":"-93.4030990600586","altitude":"1185","timezone":"-6","dst":"A","tz":"America/Chicago"}
 ,
 {"id":"3537","name":"Childress Municipal Airport","city":"Childress","country":"United States","iata":"CDS","icao":"KCDS","latitude":"34.4337997437","longitude":"-100.288002014","altitude":"1954","timezone":"-6","dst":"A","tz":"America/Chicago"}
 ,
@@ -6795,9 +6795,9 @@
 ,
 {"id":"3598","name":"Duluth International Airport","city":"Duluth","country":"United States","iata":"DLH","icao":"KDLH","latitude":"46.8420982361","longitude":"-92.19360351559999","altitude":"1428","timezone":"-6","dst":"A","tz":"America/Chicago"}
 ,
-{"id":"3599","name":"Bethel Airport","city":"Bethel","country":"United States","iata":"BET","icao":"PABE","latitude":"60.77980042","longitude":"-161.8379974","altitude":"126","timezone":"-9","dst":"A","tz":"America/Anchorage"}
-,
 {"id":"3600","name":"Bowman Field","city":"Louisville","country":"United States","iata":"LOU","icao":"KLOU","latitude":"38.2280006409","longitude":"-85.6636962891","altitude":"546","timezone":"-5","dst":"A","tz":"America/New_York"}
+,
+{"id":"3599","name":"Bethel Airport","city":"Bethel","country":"United States","iata":"BET","icao":"PABE","latitude":"60.77980042","longitude":"-161.8379974","altitude":"126","timezone":"-9","dst":"A","tz":"America/Anchorage"}
 ,
 {"id":"3601","name":"Sierra Vista Municipal Libby Army Air Field","city":"Fort Huachuca","country":"United States","iata":"FHU","icao":"KFHU","latitude":"31.588499069213867","longitude":"-110.34400177001953","altitude":"4719","timezone":"-7","dst":"A","tz":"America/Phoenix"}
 ,
@@ -6955,9 +6955,9 @@
 ,
 {"id":"3678","name":"St Louis Lambert International Airport","city":"St. Louis","country":"United States","iata":"STL","icao":"KSTL","latitude":"38.748697","longitude":"-90.370003","altitude":"618","timezone":"-6","dst":"A","tz":"America/Chicago"}
 ,
-{"id":"3679","name":"Millville Municipal Airport","city":"Millville","country":"United States","iata":"MIV","icao":"KMIV","latitude":"39.367802","longitude":"-75.072197","altitude":"85","timezone":"-5","dst":"A","tz":"America/New_York"}
-,
 {"id":"3680","name":"Sheppard Air Force Base-Wichita Falls Municipal Airport","city":"Wichita Falls","country":"United States","iata":"SPS","icao":"KSPS","latitude":"33.9888","longitude":"-98.491898","altitude":"1019","timezone":"-6","dst":"A","tz":"America/Chicago"}
+,
+{"id":"3679","name":"Millville Municipal Airport","city":"Millville","country":"United States","iata":"MIV","icao":"KMIV","latitude":"39.367802","longitude":"-75.072197","altitude":"85","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
 {"id":"3681","name":"Cincinnati Municipal Airport Lunken Field","city":"Cincinnati","country":"United States","iata":"LUK","icao":"KLUK","latitude":"39.10329819","longitude":"-84.41860199","altitude":"483","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
@@ -7083,9 +7083,9 @@
 ,
 {"id":"3742","name":"Selfridge Air National Guard Base Airport","city":"Mount Clemens","country":"United States","iata":"MTC","icao":"KMTC","latitude":"42.613463","longitude":"-82.836919","altitude":"580","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
-{"id":"3743","name":"Four Corners Regional Airport","city":"Farmington","country":"United States","iata":"FMN","icao":"KFMN","latitude":"36.741199493399996","longitude":"-108.230003357","altitude":"5506","timezone":"-7","dst":"A","tz":"America/Denver"}
-,
 {"id":"3744","name":"Corpus Christi International Airport","city":"Corpus Christi","country":"United States","iata":"CRP","icao":"KCRP","latitude":"27.77039909362793","longitude":"-97.5011978149414","altitude":"44","timezone":"-6","dst":"A","tz":"America/Chicago"}
+,
+{"id":"3743","name":"Four Corners Regional Airport","city":"Farmington","country":"United States","iata":"FMN","icao":"KFMN","latitude":"36.741199493399996","longitude":"-108.230003357","altitude":"5506","timezone":"-7","dst":"A","tz":"America/Denver"}
 ,
 {"id":"3745","name":"Syracuse Hancock International Airport","city":"Syracuse","country":"United States","iata":"SYR","icao":"KSYR","latitude":"43.11119842529297","longitude":"-76.1063003540039","altitude":"421","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
@@ -7211,9 +7211,9 @@
 ,
 {"id":"3806","name":"Charleston Air Force Base-International Airport","city":"Charleston","country":"United States","iata":"CHS","icao":"KCHS","latitude":"32.89860153","longitude":"-80.04049683","altitude":"46","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
-{"id":"3807","name":"Reno Tahoe International Airport","city":"Reno","country":"United States","iata":"RNO","icao":"KRNO","latitude":"39.49909973144531","longitude":"-119.76799774169922","altitude":"4415","timezone":"-8","dst":"A","tz":"America/Los_Angeles"}
-,
 {"id":"3808","name":"Ketchikan International Airport","city":"Ketchikan","country":"United States","iata":"KTN","icao":"PAKT","latitude":"55.35559845","longitude":"-131.7140045","altitude":"89","timezone":"-9","dst":"A","tz":"America/Anchorage"}
+,
+{"id":"3807","name":"Reno Tahoe International Airport","city":"Reno","country":"United States","iata":"RNO","icao":"KRNO","latitude":"39.49909973144531","longitude":"-119.76799774169922","altitude":"4415","timezone":"-8","dst":"A","tz":"America/Los_Angeles"}
 ,
 {"id":"3809","name":"Willow Run Airport","city":"Detroit","country":"United States","iata":"YIP","icao":"KYIP","latitude":"42.23789978","longitude":"-83.53040314","altitude":"716","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
@@ -7339,9 +7339,9 @@
 ,
 {"id":"3870","name":"Oceana Naval Air Station","city":"Oceana","country":"United States","iata":"NTU","icao":"KNTU","latitude":"36.820702","longitude":"-76.033501","altitude":"23","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
-{"id":"3871","name":"Grissom Air Reserve Base","city":"Peru","country":"United States","iata":"GUS","icao":"KGUS","latitude":"40.648101806599996","longitude":"-86.1520996094","altitude":"812","timezone":"-5","dst":"A","tz":"America/New_York"}
-,
 {"id":"3872","name":"Casper-Natrona County International Airport","city":"Casper","country":"United States","iata":"CPR","icao":"KCPR","latitude":"42.90800095","longitude":"-106.4639969","altitude":"5350","timezone":"-7","dst":"A","tz":"America/Denver"}
+,
+{"id":"3871","name":"Grissom Air Reserve Base","city":"Peru","country":"United States","iata":"GUS","icao":"KGUS","latitude":"40.648101806599996","longitude":"-86.1520996094","altitude":"812","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
 {"id":"3873","name":"Destin-Ft Walton Beach Airport","city":"Valparaiso","country":"United States","iata":"VPS","icao":"KVPS","latitude":"30.4832","longitude":"-86.525398","altitude":"87","timezone":"-6","dst":"A","tz":"America/Chicago"}
 ,
@@ -7467,9 +7467,9 @@
 ,
 {"id":"3940","name":"Ngurah Rai (Bali) International Airport","city":"Denpasar","country":"Indonesia","iata":"DPS","icao":"WADD","latitude":"-8.7481698989868","longitude":"115.16699981689","altitude":"14","timezone":"8","dst":"N","tz":"Asia/Makassar"}
 ,
-{"id":"3941","name":"Eleftherios Venizelos International Airport","city":"Athens","country":"Greece","iata":"ATH","icao":"LGAV","latitude":"37.9364013672","longitude":"23.9444999695","altitude":"308","timezone":"2","dst":"E","tz":"Europe/Athens"}
-,
 {"id":"3942","name":"Chubu Centrair International Airport","city":"Nagoya","country":"Japan","iata":"NGO","icao":"RJGG","latitude":"34.8583984375","longitude":"136.80499267578125","altitude":"15","timezone":"9","dst":"U","tz":"Asia/Tokyo"}
+,
+{"id":"3941","name":"Eleftherios Venizelos International Airport","city":"Athens","country":"Greece","iata":"ATH","icao":"LGAV","latitude":"37.9364013672","longitude":"23.9444999695","altitude":"308","timezone":"2","dst":"E","tz":"Europe/Athens"}
 ,
 {"id":"3943","name":"Kobe Airport","city":"Kobe","country":"Japan","iata":"UKB","icao":"RJBE","latitude":"34.6328010559082","longitude":"135.2239990234375","altitude":"22","timezone":"9","dst":"U","tz":"Asia/Tokyo"}
 ,
@@ -7595,9 +7595,9 @@
 ,
 {"id":"4013","name":"LTS Pulau Redang Airport","city":"Redang","country":"Malaysia","iata":"RDN","icao":"WMPR","latitude":"5.765279769897461","longitude":"103.00700378417969","altitude":"36","timezone":"8","dst":"N","tz":"Asia/Kuala_Lumpur"}
 ,
-{"id":"4014","name":"Louisville International Standiford Field","city":"Louisville","country":"United States","iata":"SDF","icao":"KSDF","latitude":"38.1744","longitude":"-85.736","altitude":"501","timezone":"-5","dst":"A","tz":"America/New_York"}
-,
 {"id":"4015","name":"Charlottesville Albemarle Airport","city":"Charlottesville VA","country":"United States","iata":"CHO","icao":"KCHO","latitude":"38.13859939575195","longitude":"-78.4529037475586","altitude":"639","timezone":"-5","dst":"A","tz":"America/New_York"}
+,
+{"id":"4014","name":"Louisville International Standiford Field","city":"Louisville","country":"United States","iata":"SDF","icao":"KSDF","latitude":"38.1744","longitude":"-85.736","altitude":"501","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
 {"id":"4016","name":"Roanoke–Blacksburg Regional Airport","city":"Roanoke VA","country":"United States","iata":"ROA","icao":"KROA","latitude":"37.3255","longitude":"-79.975403","altitude":"1175","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
@@ -7755,9 +7755,9 @@
 ,
 {"id":"4102","name":"Kaikoura Airport","city":"Kaikoura","country":"New Zealand","iata":"KBZ","icao":"NZKI","latitude":"-42.42499923706055","longitude":"173.60499572753906","altitude":"20","timezone":"12","dst":"Z","tz":"Pacific/Auckland"}
 ,
-{"id":"4103","name":"Roberts Field","city":"Redmond-Bend","country":"United States","iata":"RDM","icao":"KRDM","latitude":"44.2541008","longitude":"-121.1500015","altitude":"3080","timezone":"-8","dst":"A","tz":"America/Los_Angeles"}
-,
 {"id":"4104","name":"Picton Aerodrome","city":"Picton","country":"New Zealand","iata":"PCN","icao":"NZPN","latitude":"-41.346099853516","longitude":"173.95599365234","altitude":"161","timezone":"12","dst":"Z","tz":"Pacific/Auckland"}
+,
+{"id":"4103","name":"Roberts Field","city":"Redmond-Bend","country":"United States","iata":"RDM","icao":"KRDM","latitude":"44.2541008","longitude":"-121.1500015","altitude":"3080","timezone":"-8","dst":"A","tz":"America/Los_Angeles"}
 ,
 {"id":"4105","name":"Hosea Kutako International Airport","city":"Windhoek","country":"Namibia","iata":"WDH","icao":"FYWH","latitude":"-22.4799","longitude":"17.4709","altitude":"5640","timezone":"1","dst":"S","tz":"Africa/Windhoek"}
 ,
@@ -7883,9 +7883,9 @@
 ,
 {"id":"4178","name":"Tulsipur Airport","city":"Dang","country":"Nepal","iata":"DNP","icao":"VNDG","latitude":"28.111099243164062","longitude":"82.29419708251953","altitude":"2100","timezone":"5.75","dst":"N","tz":"Asia/Katmandu"}
 ,
-{"id":"4179","name":"Rukumkot Airport","city":"Rukumkot","country":"Nepal","iata":"RUK","icao":"VNRK","latitude":"28.627000808699997","longitude":"82.19499969479999","altitude":"2500","timezone":"5.75","dst":"N","tz":"Asia/Katmandu"}
-,
 {"id":"4180","name":"Jumla Airport","city":"Jumla","country":"Nepal","iata":"JUM","icao":"VNJL","latitude":"29.2742","longitude":"82.193298","altitude":"7700","timezone":"5.75","dst":"N","tz":"Asia/Katmandu"}
+,
+{"id":"4179","name":"Rukumkot Airport","city":"Rukumkot","country":"Nepal","iata":"RUK","icao":"VNRK","latitude":"28.627000808699997","longitude":"82.19499969479999","altitude":"2500","timezone":"5.75","dst":"N","tz":"Asia/Katmandu"}
 ,
 {"id":"4182","name":"Taplejung Airport","city":"Taplejung","country":"Nepal","iata":"TPJ","icao":"VNTJ","latitude":"27.3509","longitude":"87.69525","altitude":"7990","timezone":"5.75","dst":"N","tz":"Asia/Katmandu"}
 ,
@@ -8011,9 +8011,9 @@
 ,
 {"id":"4257","name":"Northern Colorado Regional Airport","city":"Fort Collins","country":"United States","iata":"FNL","icao":"KFNL","latitude":"40.451804","longitude":"-105.011","altitude":"5016","timezone":"-7","dst":"A","tz":"America/Denver"}
 ,
-{"id":"4261","name":"Flagstaff Pulliam Airport","city":"Flagstaff","country":"United States","iata":"FLG","icao":"KFLG","latitude":"35.13850021","longitude":"-111.6709976","altitude":"7014","timezone":"-7","dst":"N","tz":"America/Phoenix"}
-,
 {"id":"4262","name":"Lake Tahoe Airport","city":"South Lake Tahoe","country":"United States","iata":"TVL","icao":"KTVL","latitude":"38.89390182495117","longitude":"-119.99500274658203","altitude":"6264","timezone":"-8","dst":"A","tz":"America/Los_Angeles"}
+,
+{"id":"4261","name":"Flagstaff Pulliam Airport","city":"Flagstaff","country":"United States","iata":"FLG","icao":"KFLG","latitude":"35.13850021","longitude":"-111.6709976","altitude":"7014","timezone":"-7","dst":"N","tz":"America/Phoenix"}
 ,
 {"id":"4263","name":"Joslin Field Magic Valley Regional Airport","city":"Twin Falls","country":"United States","iata":"TWF","icao":"KTWF","latitude":"42.4818","longitude":"-114.487999","altitude":"4154","timezone":"-7","dst":"A","tz":"America/Denver"}
 ,
@@ -8139,9 +8139,9 @@
 ,
 {"id":"4343","name":"Renner Field-Goodland Municipal Airport","city":"Goodland","country":"United States","iata":"GLD","icao":"KGLD","latitude":"39.37060165","longitude":"-101.6989975","altitude":"3656","timezone":"-7","dst":"A","tz":"America/Denver"}
 ,
-{"id":"4344","name":"Yellowstone Regional Airport","city":"Cody","country":"United States","iata":"COD","icao":"KCOD","latitude":"44.520198822","longitude":"-109.024002075","altitude":"5102","timezone":"-7","dst":"A","tz":"America/Denver"}
-,
 {"id":"4345","name":"Ørsta-Volda Airport, Hovden","city":"Orsta-Volda","country":"Norway","iata":"HOV","icao":"ENOV","latitude":"62.180000305176","longitude":"6.0741000175476","altitude":"243","timezone":"1","dst":"E","tz":"Europe/Oslo"}
+,
+{"id":"4344","name":"Yellowstone Regional Airport","city":"Cody","country":"United States","iata":"COD","icao":"KCOD","latitude":"44.520198822","longitude":"-109.024002075","altitude":"5102","timezone":"-7","dst":"A","tz":"America/Denver"}
 ,
 {"id":"4347","name":"St. Mary's Airport","city":"ST MARY\\'S","country":"United Kingdom","iata":"ISC","icao":"EGHE","latitude":"49.913299560546875","longitude":"-6.291669845581055","altitude":"116","timezone":"0","dst":"E","tz":"Europe/London"}
 ,
@@ -8299,9 +8299,9 @@
 ,
 {"id":"5442","name":"Qaqortoq Heliport","city":"Qaqortoq","country":"Greenland","iata":"JJU","icao":"BGJH","latitude":"60.715684155299996","longitude":"-46.0299186409","altitude":"53","timezone":"-3","dst":"E","tz":"America/Godthab"}
 ,
-{"id":"5443","name":"Maniitsoq Airport","city":"Maniitsoq","country":"Greenland","iata":"JSU","icao":"BGMQ","latitude":"65.4124984741","longitude":"-52.9393997192","altitude":"91","timezone":"-3","dst":"E","tz":"America/Godthab"}
-,
 {"id":"5444","name":"Nanortalik Heliport","city":"Nanortalik","country":"Greenland","iata":"JNN","icao":"BGNN","latitude":"60.141883975899994","longitude":"-45.232976675","altitude":"17","timezone":"-3","dst":"E","tz":"America/Godthab"}
+,
+{"id":"5443","name":"Maniitsoq Airport","city":"Maniitsoq","country":"Greenland","iata":"JSU","icao":"BGMQ","latitude":"65.4124984741","longitude":"-52.9393997192","altitude":"91","timezone":"-3","dst":"E","tz":"America/Godthab"}
 ,
 {"id":"5445","name":"Narsaq Heliport","city":"Narsaq","country":"Greenland","iata":"JNS","icao":"BGNS","latitude":"60.9172827256","longitude":"-46.059923172","altitude":"83","timezone":"-3","dst":"E","tz":"America/Godthab"}
 ,
@@ -8427,9 +8427,9 @@
 ,
 {"id":"5512","name":"Kangiqsualujjuaq (Georges River) Airport","city":"Kangiqsualujjuaq","country":"Canada","iata":"XGR","icao":"CYLU","latitude":"58.71139907836914","longitude":"-65.9927978515625","altitude":"215","timezone":"-5","dst":"A","tz":"America/Toronto"}
 ,
-{"id":"5513","name":"Mary's Harbour Airport","city":"Mary's Harbour","country":"Canada","iata":"YMH","icao":"CYMH","latitude":"52.302799224853516","longitude":"-55.847198486328125","altitude":"38","timezone":"-3.5","dst":"A","tz":"America/St_Johns"}
-,
 {"id":"5514","name":"Chapais Airport","city":"Chibougamau","country":"Canada","iata":"YMT","icao":"CYMT","latitude":"49.77190017700195","longitude":"-74.5280990600586","altitude":"1270","timezone":"-5","dst":"A","tz":"America/Toronto"}
+,
+{"id":"5513","name":"Mary's Harbour Airport","city":"Mary's Harbour","country":"Canada","iata":"YMH","icao":"CYMH","latitude":"52.302799224853516","longitude":"-55.847198486328125","altitude":"38","timezone":"-3.5","dst":"A","tz":"America/St_Johns"}
 ,
 {"id":"5515","name":"Umiujaq Airport","city":"Umiujaq","country":"Canada","iata":"YUD","icao":"CYMU","latitude":"56.53609848022461","longitude":"-76.51830291748047","altitude":"250","timezone":"-5","dst":"A","tz":"America/Toronto"}
 ,
@@ -8555,9 +8555,9 @@
 ,
 {"id":"5577","name":"Donegal Airport","city":"Dongloe","country":"Ireland","iata":"CFN","icao":"EIDL","latitude":"55.0442008972168","longitude":"-8.340999603271484","altitude":"30","timezone":"0","dst":"E","tz":"Europe/Dublin"}
 ,
-{"id":"5578","name":"Weston Airport","city":"Leixlip","country":"Ireland","iata":"\\N","icao":"EIWT","latitude":"53.3521995544","longitude":"-6.48611021042","altitude":"150","timezone":"0","dst":"E","tz":"Europe/Dublin"}
-,
 {"id":"5579","name":"Sindal Airport","city":"Sindal","country":"Denmark","iata":"CNL","icao":"EKSN","latitude":"57.503502","longitude":"10.2294","altitude":"92","timezone":"1","dst":"N","tz":"Europe/Copenhagen"}
+,
+{"id":"5578","name":"Weston Airport","city":"Leixlip","country":"Ireland","iata":"\\N","icao":"EIWT","latitude":"53.3521995544","longitude":"-6.48611021042","altitude":"150","timezone":"0","dst":"E","tz":"Europe/Dublin"}
 ,
 {"id":"5580","name":"Leknes Airport","city":"Leknes","country":"Norway","iata":"LKN","icao":"ENLK","latitude":"68.152496337891","longitude":"13.609399795532","altitude":"78","timezone":"1","dst":"E","tz":"Europe/Oslo"}
 ,
@@ -8715,9 +8715,9 @@
 ,
 {"id":"5669","name":"Smara Airport","city":"Smara","country":"Western Sahara","iata":"SMW","icao":"GMMA","latitude":"26.7318","longitude":"-11.6847","altitude":"350","timezone":"0","dst":"N","tz":"Africa/El_Aaiun"}
 ,
-{"id":"5670","name":"Dakhla Airport","city":"Dakhla","country":"Western Sahara","iata":"VIL","icao":"GMMH","latitude":"23.7183","longitude":"-15.932","altitude":"36","timezone":"0","dst":"N","tz":"Africa/El_Aaiun"}
-,
 {"id":"5671","name":"Mogador Airport","city":"Essadouira","country":"Morocco","iata":"ESU","icao":"GMMI","latitude":"31.3974990845","longitude":"-9.6816701889","altitude":"384","timezone":"0","dst":"N","tz":"Africa/Casablanca"}
+,
+{"id":"5670","name":"Dakhla Airport","city":"Dakhla","country":"Western Sahara","iata":"VIL","icao":"GMMH","latitude":"23.7183","longitude":"-15.932","altitude":"36","timezone":"0","dst":"N","tz":"Africa/El_Aaiun"}
 ,
 {"id":"5672","name":"Hassan I Airport","city":"El Aaiún","country":"Western Sahara","iata":"EUN","icao":"GMML","latitude":"27.151699","longitude":"-13.2192","altitude":"207","timezone":"0","dst":"N","tz":"Africa/El_Aaiun"}
 ,
@@ -8843,9 +8843,9 @@
 ,
 {"id":"5735","name":"Chippewa Valley Regional Airport","city":"Eau Claire","country":"United States","iata":"EAU","icao":"KEAU","latitude":"44.86579895019531","longitude":"-91.48429870605469","altitude":"913","timezone":"-6","dst":"A","tz":"America/Chicago"}
 ,
-{"id":"5736","name":"Elko Regional Airport","city":"Elko","country":"United States","iata":"EKO","icao":"KEKO","latitude":"40.82490158081055","longitude":"-115.79199981689453","altitude":"5140","timezone":"-8","dst":"A","tz":"America/Los_Angeles"}
-,
 {"id":"5737","name":"New Bedford Regional Airport","city":"New Bedford","country":"United States","iata":"EWB","icao":"KEWB","latitude":"41.67610168457031","longitude":"-70.95690155029297","altitude":"80","timezone":"-5","dst":"A","tz":"America/New_York"}
+,
+{"id":"5736","name":"Elko Regional Airport","city":"Elko","country":"United States","iata":"EKO","icao":"KEKO","latitude":"40.82490158081055","longitude":"-115.79199981689453","altitude":"5140","timezone":"-8","dst":"A","tz":"America/Los_Angeles"}
 ,
 {"id":"5738","name":"Fayetteville Regional Grannis Field","city":"Fayetteville","country":"United States","iata":"FAY","icao":"KFAY","latitude":"34.9911994934082","longitude":"-78.88030242919922","altitude":"189","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
@@ -8971,9 +8971,9 @@
 ,
 {"id":"5802","name":"Balıkesir Körfez Airport","city":"Balikesir Korfez","country":"Turkey","iata":"EDO","icao":"LTFD","latitude":"39.554599762","longitude":"27.0137996674","altitude":"50","timezone":"3","dst":"E","tz":"Europe/Istanbul"}
 ,
-{"id":"5803","name":"Samsun Çarşamba Airport","city":"Samsun","country":"Turkey","iata":"SZF","icao":"LTFH","latitude":"41.254501","longitude":"36.567101","altitude":"18","timezone":"3","dst":"E","tz":"Europe/Istanbul"}
-,
 {"id":"5806","name":"Žilina Airport","city":"Žilina","country":"Slovakia","iata":"ILZ","icao":"LZZI","latitude":"49.231498718299996","longitude":"18.6135005951","altitude":"1020","timezone":"1","dst":"E","tz":"Europe/Bratislava"}
+,
+{"id":"5803","name":"Samsun Çarşamba Airport","city":"Samsun","country":"Turkey","iata":"SZF","icao":"LTFH","latitude":"41.254501","longitude":"36.567101","altitude":"18","timezone":"3","dst":"E","tz":"Europe/Istanbul"}
 ,
 {"id":"5807","name":"JAGS McCartney International Airport","city":"Cockburn Town","country":"Turks and Caicos Islands","iata":"GDT","icao":"MBGT","latitude":"21.444499969482422","longitude":"-71.14230346679688","altitude":"13","timezone":"-4","dst":"U","tz":"America/Grand_Turk"}
 ,
@@ -9131,9 +9131,9 @@
 ,
 {"id":"5904","name":"Lonorore Airport","city":"Lonorore","country":"Vanuatu","iata":"LNE","icao":"NVSO","latitude":"-15.865599632299999","longitude":"168.17199707","altitude":"43","timezone":"11","dst":"U","tz":"Pacific/Efate"}
 ,
-{"id":"5905","name":"Norsup Airport","city":"Norsup","country":"Vanuatu","iata":"NUS","icao":"NVSP","latitude":"-16.0797","longitude":"167.401001","altitude":"23","timezone":"11","dst":"U","tz":"Pacific/Efate"}
-,
 {"id":"5906","name":"Gaua Island Airport","city":"Gaua Island","country":"Vanuatu","iata":"ZGU","icao":"NVSQ","latitude":"-14.218099594099998","longitude":"167.587005615","altitude":"100","timezone":"11","dst":"U","tz":"Pacific/Efate"}
+,
+{"id":"5905","name":"Norsup Airport","city":"Norsup","country":"Vanuatu","iata":"NUS","icao":"NVSP","latitude":"-16.0797","longitude":"167.401001","altitude":"23","timezone":"11","dst":"U","tz":"Pacific/Efate"}
 ,
 {"id":"5907","name":"Redcliffe Airport","city":"Redcliffe","country":"Vanuatu","iata":"RCL","icao":"NVSR","latitude":"-15.472000122099999","longitude":"167.835006714","altitude":"36","timezone":"11","dst":"U","tz":"Pacific/Efate"}
 ,
@@ -9259,9 +9259,9 @@
 ,
 {"id":"5992","name":"Hengchun Airport","city":"Hengchun","country":"Taiwan","iata":"HCN","icao":"RCKW","latitude":"22.041099548339844","longitude":"120.7300033569336","altitude":"46","timezone":"8","dst":"U","tz":"Asia/Taipei"}
 ,
-{"id":"5993","name":"Matsu Beigan Airport","city":"Matsu Islands","country":"Taiwan","iata":"MFK","icao":"RCMT","latitude":"26.224199","longitude":"120.002998","altitude":"41","timezone":"8","dst":"U","tz":"Asia/Taipei"}
-,
 {"id":"5994","name":"Kushiro Airport","city":"Kushiro","country":"Japan","iata":"KUH","icao":"RJCK","latitude":"43.041000366199995","longitude":"144.192993164","altitude":"327","timezone":"9","dst":"U","tz":"Asia/Tokyo"}
+,
+{"id":"5993","name":"Matsu Beigan Airport","city":"Matsu Islands","country":"Taiwan","iata":"MFK","icao":"RCMT","latitude":"26.224199","longitude":"120.002998","altitude":"41","timezone":"8","dst":"U","tz":"Asia/Taipei"}
 ,
 {"id":"5995","name":"Okadama Airport","city":"Sapporo","country":"Japan","iata":"OKD","icao":"RJCO","latitude":"43.117447","longitude":"141.38134","altitude":"25","timezone":"9","dst":"U","tz":"Asia/Tokyo"}
 ,
@@ -9387,9 +9387,9 @@
 ,
 {"id":"6058","name":"Capitán Av. Selin Zeitun Lopez Airport","city":"Riberalta","country":"Bolivia","iata":"RIB","icao":"SLRI","latitude":"-11","longitude":"-66","altitude":"462","timezone":"-4","dst":"U","tz":"America/La_Paz"}
 ,
-{"id":"6059","name":"Reyes Airport","city":"Reyes","country":"Bolivia","iata":"REY","icao":"SLRY","latitude":"-14.3044","longitude":"-67.353401","altitude":"935","timezone":"-4","dst":"U","tz":"America/La_Paz"}
-,
 {"id":"6060","name":"Capitán Av. German Quiroga G. Airport","city":"San Borja","country":"Bolivia","iata":"SRJ","icao":"SLSB","latitude":"-14.859199523925781","longitude":"-66.73750305175781","altitude":"633","timezone":"-4","dst":"U","tz":"America/La_Paz"}
+,
+{"id":"6059","name":"Reyes Airport","city":"Reyes","country":"Bolivia","iata":"REY","icao":"SLRY","latitude":"-14.3044","longitude":"-67.353401","altitude":"935","timezone":"-4","dst":"U","tz":"America/La_Paz"}
 ,
 {"id":"6061","name":"Zorg en Hoop Airport","city":"Paramaribo","country":"Suriname","iata":"ORG","icao":"SMZO","latitude":"5.81108","longitude":"-55.190701","altitude":"10","timezone":"-3","dst":"U","tz":"America/Paramaribo"}
 ,
@@ -9547,9 +9547,9 @@
 ,
 {"id":"6147","name":"Khudzhand Airport","city":"Khudzhand","country":"Tajikistan","iata":"LBD","icao":"UTDL","latitude":"40.21540069580078","longitude":"69.6947021484375","altitude":"1450","timezone":"5","dst":"U","tz":"Asia/Dushanbe"}
 ,
-{"id":"6148","name":"Andizhan Airport","city":"Andizhan","country":"Uzbekistan","iata":"AZN","icao":"UTKA","latitude":"40.7276992798","longitude":"72.2939987183","altitude":"1515","timezone":"5","dst":"U","tz":"Asia/Samarkand"}
-,
 {"id":"6149","name":"Fergana International Airport","city":"Fergana","country":"Uzbekistan","iata":"FEG","icao":"UTKF","latitude":"40.358798980699994","longitude":"71.7450027466","altitude":"1980","timezone":"5","dst":"U","tz":"Asia/Samarkand"}
+,
+{"id":"6148","name":"Andizhan Airport","city":"Andizhan","country":"Uzbekistan","iata":"AZN","icao":"UTKA","latitude":"40.7276992798","longitude":"72.2939987183","altitude":"1515","timezone":"5","dst":"U","tz":"Asia/Samarkand"}
 ,
 {"id":"6150","name":"Namangan Airport","city":"Namangan","country":"Uzbekistan","iata":"NMA","icao":"UTKN","latitude":"40.9846000671","longitude":"71.5567016602","altitude":"1555","timezone":"5","dst":"U","tz":"Asia/Samarkand"}
 ,
@@ -9675,9 +9675,9 @@
 ,
 {"id":"6212","name":"Dumatumbun Airport","city":"Langgur-Kei Islands","country":"Indonesia","iata":"LUV","icao":"WAPL","latitude":"-5.661620140075684","longitude":"132.7310028076172","altitude":"10","timezone":"9","dst":"N","tz":"Asia/Jayapura"}
 ,
-{"id":"6213","name":"Mali Airport","city":"Alor Island","country":"Indonesia","iata":"ARD","icao":"WATM","latitude":"-8.132340431213379","longitude":"124.59700012207031","altitude":"10","timezone":"8","dst":"N","tz":"Asia/Makassar"}
-,
 {"id":"6214","name":"Belaga Airport","city":"Belaga","country":"Malaysia","iata":"BLG","icao":"WBGC","latitude":"2.65000009537","longitude":"113.766998291","altitude":"200","timezone":"8","dst":"N","tz":"Asia/Kuala_Lumpur"}
+,
+{"id":"6213","name":"Mali Airport","city":"Alor Island","country":"Indonesia","iata":"ARD","icao":"WATM","latitude":"-8.132340431213379","longitude":"124.59700012207031","altitude":"10","timezone":"8","dst":"N","tz":"Asia/Makassar"}
 ,
 {"id":"6215","name":"Long Lellang Airport","city":"Long Datih","country":"Malaysia","iata":"LGL","icao":"WBGF","latitude":"3.4210000038099997","longitude":"115.153999329","altitude":"1400","timezone":"8","dst":"N","tz":"Asia/Kuala_Lumpur"}
 ,
@@ -9803,9 +9803,9 @@
 ,
 {"id":"6277","name":"Kalbarri Airport","city":"Kalbarri","country":"Australia","iata":"KAX","icao":"YKBR","latitude":"-27.692813","longitude":"114.259169","altitude":"157","timezone":"8","dst":"O","tz":"Australia/Perth"}
 ,
-{"id":"6278","name":"King Island Airport","city":"King Island","country":"Australia","iata":"KNS","icao":"YKII","latitude":"-39.877498626708984","longitude":"143.8780059814453","altitude":"132","timezone":"10","dst":"O","tz":"Australia/Melbourne"}
-,
 {"id":"6279","name":"Kalkgurung Airport","city":"Kalkgurung","country":"Australia","iata":"KFG","icao":"YKKG","latitude":"-17.431900024414062","longitude":"130.80799865722656","altitude":"646","timezone":"9.5","dst":"O","tz":"Australia/Darwin"}
+,
+{"id":"6278","name":"King Island Airport","city":"King Island","country":"Australia","iata":"KNS","icao":"YKII","latitude":"-39.877498626708984","longitude":"143.8780059814453","altitude":"132","timezone":"10","dst":"O","tz":"Australia/Melbourne"}
 ,
 {"id":"6280","name":"Karumba Airport","city":"Karumba","country":"Australia","iata":"KRB","icao":"YKMB","latitude":"-17.45669937133789","longitude":"140.8300018310547","altitude":"5","timezone":"10","dst":"O","tz":"Australia/Brisbane"}
 ,
@@ -9963,9 +9963,9 @@
 ,
 {"id":"6357","name":"Zhanjiang Airport","city":"Zhanjiang","country":"China","iata":"ZHA","icao":"ZGZJ","latitude":"21.214399","longitude":"110.358002","altitude":"125","timezone":"8","dst":"U","tz":"Asia/Shanghai"}
 ,
-{"id":"6358","name":"Enshi Airport","city":"Enshi","country":"China","iata":"ENH","icao":"ZHES","latitude":"30.3202991486","longitude":"109.48500061","altitude":"1605","timezone":"8","dst":"U","tz":"Asia/Shanghai"}
-,
 {"id":"6359","name":"Nanyang Jiangying Airport","city":"Nanyang","country":"China","iata":"NNY","icao":"ZHNY","latitude":"32.980801","longitude":"112.614998","altitude":"840","timezone":"8","dst":"U","tz":"Asia/Shanghai"}
+,
+{"id":"6358","name":"Enshi Airport","city":"Enshi","country":"China","iata":"ENH","icao":"ZHES","latitude":"30.3202991486","longitude":"109.48500061","altitude":"1605","timezone":"8","dst":"U","tz":"Asia/Shanghai"}
 ,
 {"id":"6360","name":"Xiangyang Liuji Airport","city":"Xiangfan","country":"China","iata":"XFN","icao":"ZHXF","latitude":"32.1506","longitude":"112.291","altitude":"0","timezone":"8","dst":"U","tz":"Asia/Shanghai"}
 ,
@@ -10091,9 +10091,9 @@
 ,
 {"id":"6424","name":"Berezovo Airport","city":"Berezovo","country":"Russia","iata":"EZV","icao":"USHB","latitude":"63.92100143432617","longitude":"65.03050231933594","altitude":"98","timezone":"5","dst":"N","tz":"Asia/Yekaterinburg"}
 ,
-{"id":"6425","name":"Szczecin-Dąbie Airport","city":"Szczecin","country":"Poland","iata":"\\N","icao":"EPSD","latitude":"53.3921012878418","longitude":"14.63379955291748","altitude":"3","timezone":"1","dst":"E","tz":"Europe/Warsaw"}
-,
 {"id":"6426","name":"Worcester Regional Airport","city":"Worcester","country":"United States","iata":"ORH","icao":"KORH","latitude":"42.26729965209961","longitude":"-71.87570190429688","altitude":"1009","timezone":"-5","dst":"A","tz":"America/New_York"}
+,
+{"id":"6425","name":"Szczecin-Dąbie Airport","city":"Szczecin","country":"Poland","iata":"\\N","icao":"EPSD","latitude":"53.3921012878418","longitude":"14.63379955291748","altitude":"3","timezone":"1","dst":"E","tz":"Europe/Warsaw"}
 ,
 {"id":"6427","name":"Anqing Tianzhushan Airport","city":"Anqing","country":"China","iata":"AQG","icao":"ZSAQ","latitude":"30.582199","longitude":"117.050003","altitude":"0","timezone":"8","dst":"N","tz":"Asia/Shanghai"}
 ,
@@ -10251,9 +10251,9 @@
 ,
 {"id":"6751","name":"Tocache Airport","city":"Tocache","country":"Peru","iata":"\\N","icao":"SPCH","latitude":"-8.1829996109","longitude":"-76.516998291","altitude":"1500","timezone":"-5","dst":"U","tz":"America/Lima"}
 ,
-{"id":"6752","name":"Tacheng Airport","city":"Tacheng","country":"China","iata":"TCG","icao":"ZWTC","latitude":"46.67250061035156","longitude":"83.3407974243164","altitude":"0","timezone":"8","dst":"U","tz":"Asia/Shanghai"}
-,
 {"id":"6753","name":"Mardin Airport","city":"Mardin","country":"Turkey","iata":"MQM","icao":"LTCR","latitude":"37.223300933800004","longitude":"40.6316986084","altitude":"1729","timezone":"3","dst":"E","tz":"Europe/Istanbul"}
+,
+{"id":"6752","name":"Tacheng Airport","city":"Tacheng","country":"China","iata":"TCG","icao":"ZWTC","latitude":"46.67250061035156","longitude":"83.3407974243164","altitude":"0","timezone":"8","dst":"U","tz":"Asia/Shanghai"}
 ,
 {"id":"6754","name":"Sugraly Airport","city":"Zarafshan","country":"Uzbekistan","iata":"AFS","icao":"UTSN","latitude":"41.61389923095703","longitude":"64.23320007324219","altitude":"1396","timezone":"5","dst":"U","tz":"Asia/Samarkand"}
 ,
@@ -10379,9 +10379,9 @@
 ,
 {"id":"6833","name":"Al Udeid Air Base","city":"Doha","country":"Qatar","iata":"XJD","icao":"OTBH","latitude":"25.1173000336","longitude":"51.3149986267","altitude":"130","timezone":"3","dst":"N","tz":"Asia/Qatar"}
 ,
-{"id":"6834","name":"Great Barrier Aerodrome","city":"Claris","country":"New Zealand","iata":"GBZ","icao":"NZGB","latitude":"-36.24140167236328","longitude":"175.4720001220703","altitude":"20","timezone":"12","dst":"Z","tz":"Pacific/Auckland"}
-,
 {"id":"6837","name":"Ford Airport","city":"Iron Mountain","country":"United States","iata":"IMT","icao":"KIMT","latitude":"45.8184013367","longitude":"-88.1145019531","altitude":"1182","timezone":"-6","dst":"A","tz":"America/Chicago"}
+,
+{"id":"6834","name":"Great Barrier Aerodrome","city":"Claris","country":"New Zealand","iata":"GBZ","icao":"NZGB","latitude":"-36.24140167236328","longitude":"175.4720001220703","altitude":"20","timezone":"12","dst":"Z","tz":"Pacific/Auckland"}
 ,
 {"id":"6838","name":"Marquette Airport","city":"Marquette","country":"United States","iata":"\\N","icao":"KMQT","latitude":"46.53390121459961","longitude":"-87.5614013671875","altitude":"1424","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
@@ -10507,9 +10507,9 @@
 ,
 {"id":"6945","name":"Drake Bay Airport","city":"Puntarenas","country":"Costa Rica","iata":"DRK","icao":"MRDK","latitude":"8.71889019012","longitude":"-83.6417007446","altitude":"12","timezone":"-6","dst":"N","tz":"America/Costa_Rica"}
 ,
-{"id":"6947","name":"Tuzla International Airport","city":"Null","country":"Bosnia and Herzegovina","iata":"TZL","icao":"LQTZ","latitude":"44.45869827270508","longitude":"18.72480010986328","altitude":"784","timezone":"1","dst":"E","tz":"Europe/Sarajevo"}
-,
 {"id":"6948","name":"NAS Fort Worth JRB/Carswell Field","city":"Dallas","country":"United States","iata":"FWH","icao":"KNFW","latitude":"32.76919937","longitude":"-97.4414978","altitude":"650","timezone":"-6","dst":"A","tz":"America/Chicago"}
+,
+{"id":"6947","name":"Tuzla International Airport","city":"Null","country":"Bosnia and Herzegovina","iata":"TZL","icao":"LQTZ","latitude":"44.45869827270508","longitude":"18.72480010986328","altitude":"784","timezone":"1","dst":"E","tz":"Europe/Sarajevo"}
 ,
 {"id":"6949","name":"Naypyidaw Airport","city":"Naypyidaw","country":"Burma","iata":"NYT","icao":"VYEL","latitude":"19.623501","longitude":"96.200996","altitude":"302","timezone":"6.5","dst":"U","tz":"Asia/Rangoon"}
 ,
@@ -10667,9 +10667,9 @@
 ,
 {"id":"7067","name":"Alliance Municipal Airport","city":"Alliance","country":"United States","iata":"AIA","icao":"KAIA","latitude":"42.0531997681","longitude":"-102.804000854","altitude":"3931","timezone":"-7","dst":"A","tz":"America/Denver"}
 ,
-{"id":"7068","name":"Mc Cook Ben Nelson Regional Airport","city":"McCook","country":"United States","iata":"MCK","icao":"KMCK","latitude":"40.20629883","longitude":"-100.5920029","altitude":"2583","timezone":"-6","dst":"A","tz":"America/Chicago"}
-,
 {"id":"7069","name":"The Florida Keys Marathon Airport","city":"Marathon","country":"United States","iata":"MTH","icao":"KMTH","latitude":"24.726101","longitude":"-81.051399","altitude":"5","timezone":"-5","dst":"A","tz":"America/New_York"}
+,
+{"id":"7068","name":"Mc Cook Ben Nelson Regional Airport","city":"McCook","country":"United States","iata":"MCK","icao":"KMCK","latitude":"40.20629883","longitude":"-100.5920029","altitude":"2583","timezone":"-6","dst":"A","tz":"America/Chicago"}
 ,
 {"id":"7070","name":"Dawson Community Airport","city":"Glendive","country":"United States","iata":"GDV","icao":"KGDV","latitude":"47.13869858","longitude":"-104.8069992","altitude":"2458","timezone":"-7","dst":"A","tz":"America/Denver"}
 ,
@@ -10795,9 +10795,9 @@
 ,
 {"id":"7161","name":"Karluk Airport","city":"Karluk","country":"United States","iata":"KYK","icao":"PAKY","latitude":"57.5671005249","longitude":"-154.449996948","altitude":"137","timezone":"-9","dst":"A","tz":"America/Anchorage"}
 ,
-{"id":"7162","name":"Larsen Bay Airport","city":"Larsen Bay","country":"United States","iata":"KLN","icao":"PALB","latitude":"57.5350990295","longitude":"-153.977996826","altitude":"87","timezone":"-9","dst":"A","tz":"America/Anchorage"}
-,
 {"id":"7177","name":"Ambler Airport","city":"Ambler","country":"United States","iata":"ABL","icao":"PAFM","latitude":"67.1063","longitude":"-157.856989","altitude":"334","timezone":"-9","dst":"A","tz":"America/Anchorage"}
+,
+{"id":"7162","name":"Larsen Bay Airport","city":"Larsen Bay","country":"United States","iata":"KLN","icao":"PALB","latitude":"57.5350990295","longitude":"-153.977996826","altitude":"87","timezone":"-9","dst":"A","tz":"America/Anchorage"}
 ,
 {"id":"7178","name":"Buckland Airport","city":"Buckland","country":"United States","iata":"BKC","icao":"PABL","latitude":"65.9815979004","longitude":"-161.149002075","altitude":"31","timezone":"-9","dst":"A","tz":"America/Anchorage"}
 ,
@@ -10923,9 +10923,9 @@
 ,
 {"id":"7268","name":"Nanaimo Harbour Water Airport","city":"Nanaimo","country":"Canada","iata":"ZNA","icao":"CAC8","latitude":"49.1833000183","longitude":"-123.949996948","altitude":"0","timezone":"-8","dst":"A","tz":"America/Vancouver"}
 ,
-{"id":"7269","name":"Ganges Seaplane Base","city":"Ganges","country":"Canada","iata":"YGG","icao":"CAX6","latitude":"48.8545","longitude":"-123.4969","altitude":"0","timezone":"-8","dst":"A","tz":"America/Vancouver"}
-,
 {"id":"7272","name":"Fort St James Airport","city":"Fort St. James","country":"Canada","iata":"\\N","icao":"CYJM","latitude":"54.39720153808594","longitude":"-124.26300048828125","altitude":"2364","timezone":"-8","dst":"A","tz":"America/Vancouver"}
+,
+{"id":"7269","name":"Ganges Seaplane Base","city":"Ganges","country":"Canada","iata":"YGG","icao":"CAX6","latitude":"48.8545","longitude":"-123.4969","altitude":"0","timezone":"-8","dst":"A","tz":"America/Vancouver"}
 ,
 {"id":"7273","name":"Boundary Bay Airport","city":"Boundary Bay","country":"Canada","iata":"YDT","icao":"CZBB","latitude":"49.0742","longitude":"-123.012001","altitude":"6","timezone":"-8","dst":"A","tz":"America/Vancouver"}
 ,
@@ -11083,9 +11083,9 @@
 ,
 {"id":"7397","name":"Borba Airport","city":"Borba","country":"Brazil","iata":"RBB","icao":"SWBR","latitude":"-4.4063401222229","longitude":"-59.60240173339844","altitude":"293","timezone":"-4","dst":"S","tz":"America/Boa_Vista"}
 ,
-{"id":"7398","name":"Coari Airport","city":"Coari","country":"Brazil","iata":"CIZ","icao":"SWKO","latitude":"-4.134059906005859","longitude":"-63.132598876953125","altitude":"131","timezone":"-4","dst":"S","tz":"America/Boa_Vista"}
-,
 {"id":"7399","name":"Barcelos Airport","city":"Barcelos","country":"Brazil","iata":"BAZ","icao":"SWBC","latitude":"-0.981292","longitude":"-62.919601","altitude":"112","timezone":"-4","dst":"S","tz":"America/Boa_Vista"}
+,
+{"id":"7398","name":"Coari Airport","city":"Coari","country":"Brazil","iata":"CIZ","icao":"SWKO","latitude":"-4.134059906005859","longitude":"-63.132598876953125","altitude":"131","timezone":"-4","dst":"S","tz":"America/Boa_Vista"}
 ,
 {"id":"7406","name":"Diamantino Airport","city":"Diamantino","country":"Brazil","iata":"DMT","icao":"SWDM","latitude":"-14.376899719238281","longitude":"-56.40039825439453","altitude":"1476","timezone":"-4","dst":"S","tz":"America/Campo_Grande"}
 ,
@@ -11211,9 +11211,9 @@
 ,
 {"id":"7495","name":"Allegheny County Airport","city":"Pittsburgh","country":"United States","iata":"AGC","icao":"KAGC","latitude":"40.354400634765625","longitude":"-79.9301986694336","altitude":"1252","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
-{"id":"7496","name":"Cecil Airport","city":"Jacksonville","country":"United States","iata":"VQQ","icao":"KVQQ","latitude":"30.2187004089","longitude":"-81.876701355","altitude":"81","timezone":"-5","dst":"A","tz":"America/New_York"}
-,
 {"id":"7497","name":"Fulton County Airport Brown Field","city":"Atlanta","country":"United States","iata":"FTY","icao":"KFTY","latitude":"33.7790985107","longitude":"-84.5214004517","altitude":"841","timezone":"-5","dst":"A","tz":"America/New_York"}
+,
+{"id":"7496","name":"Cecil Airport","city":"Jacksonville","country":"United States","iata":"VQQ","icao":"KVQQ","latitude":"30.2187004089","longitude":"-81.876701355","altitude":"81","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
 {"id":"7498","name":"Tresco Heliport","city":"Tresco","country":"United Kingdom","iata":"\\N","icao":"EGHT","latitude":"49.94559860229492","longitude":"-6.331389904022217","altitude":"20","timezone":"0","dst":"U","tz":"Europe/London"}
 ,
@@ -11339,9 +11339,9 @@
 ,
 {"id":"7590","name":"Abemama Atoll Airport","city":"Abemama","country":"Kiribati","iata":"AEA","icao":"NGTB","latitude":"0.49083301424980164","longitude":"173.82899475097656","altitude":"8","timezone":"12","dst":"U","tz":"Pacific/Tarawa"}
 ,
-{"id":"7591","name":"Buariki Airport","city":"Buariki","country":"Kiribati","iata":"AAK","icao":"NGUK","latitude":"0.1852779984474182","longitude":"173.63699340820312","altitude":"0","timezone":"10","dst":"U","tz":"\\N"}
-,
 {"id":"7592","name":"Kuria Airport","city":"Kuria","country":"Kiribati","iata":"KUC","icao":"NGKT","latitude":"0.2186110019683838","longitude":"173.44200134277344","altitude":"0","timezone":"12","dst":"U","tz":"Pacific/Tarawa"}
+,
+{"id":"7591","name":"Buariki Airport","city":"Buariki","country":"Kiribati","iata":"AAK","icao":"NGUK","latitude":"0.1852779984474182","longitude":"173.63699340820312","altitude":"0","timezone":"10","dst":"U","tz":"\\N"}
 ,
 {"id":"7593","name":"Arorae Island Airport","city":"Arorae","country":"Kiribati","iata":"AIS","icao":"NGTR","latitude":"-2.61611008644104","longitude":"176.80299377441406","altitude":"0","timezone":"12","dst":"U","tz":"Pacific/Tarawa"}
 ,
@@ -11499,9 +11499,9 @@
 ,
 {"id":"7731","name":"La Cerdanya Airport","city":"Das i Fontanals de Cerdanya","country":"Spain","iata":"\\N","icao":"LECD","latitude":"42.38639831542969","longitude":"1.86667001247406","altitude":"3586","timezone":"1","dst":"E","tz":"Europe/Madrid"}
 ,
-{"id":"7732","name":"Lakeland Linder Regional Airport","city":"Lakeland","country":"United States","iata":"LAL","icao":"KLAL","latitude":"27.988899231","longitude":"-82.0186004639","altitude":"142","timezone":"-5","dst":"A","tz":"America/New_York"}
-,
 {"id":"7738","name":"Stary Oskol Airport","city":"Stary Oskol","country":"Russia","iata":"\\N","icao":"UUOS","latitude":"51.32921600341797","longitude":"37.76884841918945","altitude":"791","timezone":"3","dst":"N","tz":"Europe/Moscow"}
+,
+{"id":"7732","name":"Lakeland Linder Regional Airport","city":"Lakeland","country":"United States","iata":"LAL","icao":"KLAL","latitude":"27.988899231","longitude":"-82.0186004639","altitude":"142","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
 {"id":"7766","name":"Syangboche Airport","city":"Syangboche","country":"Nepal","iata":"SYH","icao":"VNSB","latitude":"27.8112","longitude":"86.7124","altitude":"12400","timezone":"5.75","dst":"N","tz":"Asia/Katmandu"}
 ,
@@ -11627,9 +11627,9 @@
 ,
 {"id":"7870","name":"Easton Newnam Field","city":"Easton","country":"United States","iata":"ESN","icao":"KESN","latitude":"38.8041992188","longitude":"-76.06900024410001","altitude":"72","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
-{"id":"7871","name":"Stafsberg Airport","city":"Hamar","country":"Norway","iata":"HMR","icao":"ENHA","latitude":"60.81809997558594","longitude":"11.067999839782715","altitude":"713","timezone":"1","dst":"E","tz":"Europe/Oslo"}
-,
 {"id":"7872","name":"Ringebu Airfield Frya","city":"Frya","country":"Norway","iata":"\\N","icao":"ENRI","latitude":"61.545440673","longitude":"10.061588287","altitude":"571","timezone":"1","dst":"E","tz":"Europe/Oslo"}
+,
+{"id":"7871","name":"Stafsberg Airport","city":"Hamar","country":"Norway","iata":"HMR","icao":"ENHA","latitude":"60.81809997558594","longitude":"11.067999839782715","altitude":"713","timezone":"1","dst":"E","tz":"Europe/Oslo"}
 ,
 {"id":"7875","name":"Yuba County Airport","city":"Yuba City","country":"United States","iata":"MYV","icao":"KMYV","latitude":"39.09780121","longitude":"-121.5699997","altitude":"64","timezone":"-8","dst":"A","tz":"America/Los_Angeles"}
 ,
@@ -11755,9 +11755,9 @@
 ,
 {"id":"8030","name":"Phoenix Deer Valley Airport","city":"Phoenix ","country":"United States","iata":"DVT","icao":"KDVT","latitude":"33.6883010864","longitude":"-112.083000183","altitude":"1478","timezone":"-7","dst":"A","tz":"America/Phoenix"}
 ,
-{"id":"8031","name":"Calgary / Springbank Airport","city":"Calgary","country":"Canada","iata":"\\N","icao":"CYBW","latitude":"51.103099823","longitude":"-114.374000549","altitude":"3940","timezone":"-7","dst":"A","tz":"America/Edmonton"}
-,
 {"id":"8032","name":"Golden Airport","city":"Golden","country":"Canada","iata":"\\N","icao":"CYGE","latitude":"51.299196","longitude":"-116.982002","altitude":"2575","timezone":"-7","dst":"A","tz":"America/Edmonton"}
+,
+{"id":"8031","name":"Calgary / Springbank Airport","city":"Calgary","country":"Canada","iata":"\\N","icao":"CYBW","latitude":"51.103099823","longitude":"-114.374000549","altitude":"3940","timezone":"-7","dst":"A","tz":"America/Edmonton"}
 ,
 {"id":"8033","name":"Revelstoke Airport","city":"Revelstoke","country":"Canada","iata":"YRV","icao":"CYRV","latitude":"50.9667015076","longitude":"-118.182998657","altitude":"1459","timezone":"-8","dst":"A","tz":"America/Vancouver"}
 ,
@@ -11915,9 +11915,9 @@
 ,
 {"id":"8143","name":"Montgomery County Airpark","city":"Gaithersburg","country":"United States","iata":"GAI","icao":"KGAI","latitude":"39.168300628699996","longitude":"-77.1660003662","altitude":"539","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
-{"id":"8146","name":"Sharana Airstrip","city":"Sharona","country":"Afghanistan","iata":"OAS","icao":"OASA","latitude":"33.12575","longitude":"68.838517","altitude":"7340","timezone":"4.5","dst":"N","tz":"Asia/Kabul"}
-,
 {"id":"8147","name":"Pembroke Airport","city":"Pembroke","country":"Canada","iata":"YTA","icao":"CYTA","latitude":"45.86439895629883","longitude":"-77.25170135498047","altitude":"529","timezone":"-5","dst":"A","tz":"America/Toronto"}
+,
+{"id":"8146","name":"Sharana Airstrip","city":"Sharona","country":"Afghanistan","iata":"OAS","icao":"OASA","latitude":"33.12575","longitude":"68.838517","altitude":"7340","timezone":"4.5","dst":"N","tz":"Asia/Kabul"}
 ,
 {"id":"8148","name":"Tsumeb Airport","city":"Tsumeb","country":"Namibia","iata":"TSB","icao":"FYTM","latitude":"-19.26189994812","longitude":"17.732500076294","altitude":"4353","timezone":"1","dst":"U","tz":"Africa/Windhoek"}
 ,
@@ -12043,9 +12043,9 @@
 ,
 {"id":"8265","name":"Telfer Airport","city":"Telfer","country":"Australia","iata":"TEF","icao":"YTEF","latitude":"-21.71500015258789","longitude":"122.22899627685547","altitude":"970","timezone":"8","dst":"N","tz":"Australia/Perth"}
 ,
-{"id":"8266","name":"Gazipaşa Airport","city":"Alanya","country":"Turkey","iata":"GZP","icao":"LTGP","latitude":"36.299217","longitude":"32.300598","altitude":"86","timezone":"3","dst":"E","tz":"Europe/Istanbul"}
-,
 {"id":"8273","name":"Douglas Municipal Airport","city":"Douglas","country":"United States","iata":"\\N","icao":"KDQH","latitude":"31.476699829101562","longitude":"-82.8604965209961","altitude":"257","timezone":"-5","dst":"A","tz":"America/New_York"}
+,
+{"id":"8266","name":"Gazipaşa Airport","city":"Alanya","country":"Turkey","iata":"GZP","icao":"LTGP","latitude":"36.299217","longitude":"32.300598","altitude":"86","timezone":"3","dst":"E","tz":"Europe/Istanbul"}
 ,
 {"id":"8274","name":"St Lucie County International Airport","city":"Fort Pierce","country":"United States","iata":"FPR","icao":"KFPR","latitude":"27.49510002","longitude":"-80.36830139","altitude":"24","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
@@ -12171,9 +12171,9 @@
 ,
 {"id":"8356","name":"Marathon Airport","city":"Marathon","country":"Canada","iata":"YSP","icao":"CYSP","latitude":"48.75529861450195","longitude":"-86.34439849853516","altitude":"1035","timezone":"-5","dst":"A","tz":"America/Toronto"}
 ,
-{"id":"8357","name":"Hearst René Fontaine Municipal Airport","city":"Hearst","country":"Canada","iata":"YHF","icao":"CYHF","latitude":"49.71419906616211","longitude":"-83.68609619140625","altitude":"827","timezone":"-5","dst":"A","tz":"America/Toronto"}
-,
 {"id":"8358","name":"Hornepayne Municipal Airport","city":"Hornepayne","country":"Canada","iata":"YHN","icao":"CYHN","latitude":"49.19309997558594","longitude":"-84.75890350341797","altitude":"1099","timezone":"-5","dst":"A","tz":"America/Toronto"}
+,
+{"id":"8357","name":"Hearst René Fontaine Municipal Airport","city":"Hearst","country":"Canada","iata":"YHF","icao":"CYHF","latitude":"49.71419906616211","longitude":"-83.68609619140625","altitude":"827","timezone":"-5","dst":"A","tz":"America/Toronto"}
 ,
 {"id":"8359","name":"Kirkland Lake Airport","city":"Kirkland Lake","country":"Canada","iata":"YKX","icao":"CYKX","latitude":"48.21030044555664","longitude":"-79.98139953613281","altitude":"1157","timezone":"-5","dst":"A","tz":"America/Toronto"}
 ,
@@ -12331,9 +12331,9 @@
 ,
 {"id":"8520","name":"Richmond County Airport","city":"Rockingham","country":"United States","iata":"\\N","icao":"KRCZ","latitude":"34.8913","longitude":"-79.759598","altitude":"358","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
-{"id":"8524","name":"Baraboo Wisconsin Dells Airport","city":"Baraboo","country":"United States","iata":"\\N","icao":"KDLL","latitude":"43.52270126","longitude":"-89.77020264","altitude":"979","timezone":"-6","dst":"A","tz":"America/Chicago"}
-,
 {"id":"8526","name":"Statesville Regional Airport","city":"Statesville","country":"United States","iata":"SVH","icao":"KSVH","latitude":"35.765300750732","longitude":"-80.953903198242","altitude":"968","timezone":"-5","dst":"A","tz":"America/New_York"}
+,
+{"id":"8524","name":"Baraboo Wisconsin Dells Airport","city":"Baraboo","country":"United States","iata":"\\N","icao":"KDLL","latitude":"43.52270126","longitude":"-89.77020264","altitude":"979","timezone":"-6","dst":"A","tz":"America/Chicago"}
 ,
 {"id":"8528","name":"Burlington Municipal Airport","city":"Burlington","country":"United States","iata":"\\N","icao":"KBUU","latitude":"42.69070053100586","longitude":"-88.30460357666016","altitude":"779","timezone":"-6","dst":"A","tz":"America/Chicago"}
 ,
@@ -12459,9 +12459,9 @@
 ,
 {"id":"8667","name":"Keokuk Municipal Airport","city":"Keokuk","country":"United States","iata":"EOK","icao":"KEOK","latitude":"40.459899902299995","longitude":"-91.4284973145","altitude":"671","timezone":"-6","dst":"A","tz":"America/Chicago"}
 ,
-{"id":"8669","name":"Perth/Scone Airport","city":"Perth","country":"United Kingdom","iata":"PSL","icao":"EGPT","latitude":"56.43920135498047","longitude":"-3.372220039367676","altitude":"397","timezone":"0","dst":"E","tz":"Europe/London"}
-,
 {"id":"8670","name":"Caernarfon Airport","city":"Caernarfon","country":"United Kingdom","iata":"\\N","icao":"EGCK","latitude":"53.101819","longitude":"-4.337614","altitude":"1","timezone":"0","dst":"E","tz":"Europe/London"}
+,
+{"id":"8669","name":"Perth/Scone Airport","city":"Perth","country":"United Kingdom","iata":"PSL","icao":"EGPT","latitude":"56.43920135498047","longitude":"-3.372220039367676","altitude":"397","timezone":"0","dst":"E","tz":"Europe/London"}
 ,
 {"id":"8671","name":"Grefrath-Niershorst Airport","city":"Grefrath","country":"Germany","iata":"\\N","icao":"EDLF","latitude":"51.33388900756836","longitude":"6.3594441413879395","altitude":"105","timezone":"1","dst":"E","tz":"Europe/Berlin"}
 ,
@@ -12587,9 +12587,9 @@
 ,
 {"id":"8793","name":"Hardwick Field","city":"Cleveland","country":"United States","iata":"HDI","icao":"KHDI","latitude":"35.22010040283203","longitude":"-84.8323974609375","altitude":"874","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
-{"id":"8796","name":"Renton Municipal Airport","city":"Renton","country":"United States","iata":"RNT","icao":"KRNT","latitude":"47.4930992126","longitude":"-122.216003418","altitude":"32","timezone":"-8","dst":"A","tz":"America/Los_Angeles"}
-,
 {"id":"8798","name":"Brackett Field","city":"La Verne","country":"United States","iata":"POC","icao":"KPOC","latitude":"34.091598510742","longitude":"-117.78199768066","altitude":"1011","timezone":"-8","dst":"A","tz":"America/Los_Angeles"}
+,
+{"id":"8796","name":"Renton Municipal Airport","city":"Renton","country":"United States","iata":"RNT","icao":"KRNT","latitude":"47.4930992126","longitude":"-122.216003418","altitude":"32","timezone":"-8","dst":"A","tz":"America/Los_Angeles"}
 ,
 {"id":"8801","name":"Cross City Airport","city":"Cross City","country":"United States","iata":"CTY","icao":"KCTY","latitude":"29.6354999542","longitude":"-83.10479736330001","altitude":"42","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
@@ -12715,9 +12715,9 @@
 ,
 {"id":"8931","name":"Longview Ranch Airport","city":"Longview","country":"United States","iata":"\\N","icao":"OG39","latitude":"44.66170120239258","longitude":"-119.6520004272461","altitude":"2080","timezone":"-8","dst":"A","tz":"America/Los_Angeles"}
 ,
-{"id":"8932","name":"Rothera Research Station","city":"Rothera Research Station","country":"United Kingdom","iata":"\\N","icao":"EGAR","latitude":"-67.5675","longitude":"-68.1274027778","altitude":"9","timezone":"12","dst":"U","tz":"Antarctica/South_Pole"}
-,
 {"id":"8933","name":"Sortavala Airport","city":"Sortavala","country":"Russia","iata":"\\N","icao":"ULPW","latitude":"61.73609924316406","longitude":"30.673599243164062","altitude":"0","timezone":"3","dst":"N","tz":"Europe/Moscow"}
+,
+{"id":"8932","name":"Rothera Research Station","city":"Rothera Research Station","country":"United Kingdom","iata":"\\N","icao":"EGAR","latitude":"-67.5675","longitude":"-68.1274027778","altitude":"9","timezone":"12","dst":"U","tz":"Antarctica/South_Pole"}
 ,
 {"id":"8935","name":"Lee Airport","city":"Annapolis","country":"United States","iata":"ANP","icao":"KANP","latitude":"38.942902","longitude":"-76.568398","altitude":"34","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
@@ -12875,9 +12875,9 @@
 ,
 {"id":"9139","name":"Glendale Municipal Airport","city":"Glendale","country":"United States","iata":"\\N","icao":"KGEU","latitude":"33.52690124511719","longitude":"-112.29499816894531","altitude":"1071","timezone":"-7","dst":"N","tz":"America/Phoenix"}
 ,
-{"id":"9140","name":"Safford Regional Airport","city":"Safford","country":"United States","iata":"SAD","icao":"KSAD","latitude":"32.85480118","longitude":"-109.6350021","altitude":"3179","timezone":"-7","dst":"N","tz":"America/Phoenix"}
-,
 {"id":"9141","name":"Verden-Scharnhorst Airfield","city":"Verden","country":"Germany","iata":"\\N","icao":"EDWV","latitude":"52.965279","longitude":"9.282778","altitude":"144","timezone":"1","dst":"E","tz":"Europe/Berlin"}
+,
+{"id":"9140","name":"Safford Regional Airport","city":"Safford","country":"United States","iata":"SAD","icao":"KSAD","latitude":"32.85480118","longitude":"-109.6350021","altitude":"3179","timezone":"-7","dst":"N","tz":"America/Phoenix"}
 ,
 {"id":"9147","name":"Nittenau-Bruck Airport","city":"Nittenau","country":"Germany","iata":"\\N","icao":"EDNM","latitude":"49.22249984741211","longitude":"12.296667098999023","altitude":"1161","timezone":"1","dst":"E","tz":"Europe/Berlin"}
 ,
@@ -13003,9 +13003,9 @@
 ,
 {"id":"9372","name":"Seymchan Airport","city":"Seymchan","country":"Russia","iata":"\\N","icao":"UHMS","latitude":"62.920780181884766","longitude":"152.4227752685547","altitude":"679","timezone":"11","dst":"N","tz":"Asia/Srednekolymsk"}
 ,
-{"id":"9373","name":"Zyryanka Airport","city":"Zyryanka","country":"Russia","iata":"ZKP","icao":"UESU","latitude":"65.7485","longitude":"150.8889","altitude":"140","timezone":"11","dst":"N","tz":"Asia/Srednekolymsk"}
-,
 {"id":"9374","name":"Susuman Airport","city":"Susuman","country":"Russia","iata":"\\N","icao":"UHMH","latitude":"62.766666412353516","longitude":"148.14666748046875","altitude":"2129","timezone":"11","dst":"N","tz":"Asia/Srednekolymsk"}
+,
+{"id":"9373","name":"Zyryanka Airport","city":"Zyryanka","country":"Russia","iata":"ZKP","icao":"UESU","latitude":"65.7485","longitude":"150.8889","altitude":"140","timezone":"11","dst":"N","tz":"Asia/Srednekolymsk"}
 ,
 {"id":"9376","name":"Ust-Maya Airport","city":"Ust-Maya","country":"Russia","iata":"UMS","icao":"UEMU","latitude":"60.356998443604","longitude":"134.43499755859","altitude":"561","timezone":"9","dst":"N","tz":"Asia/Yakutsk"}
 ,
@@ -13131,9 +13131,9 @@
 ,
 {"id":"9759","name":"Abaco I Walker C Airport","city":"Walker's Cay","country":"Bahamas","iata":"WKR","icao":"MYAW","latitude":"27.266700744628906","longitude":"-78.39969635009766","altitude":"10","timezone":"-5","dst":"A","tz":"\\N"}
 ,
-{"id":"9760","name":"Black Point Airstrip","city":"Black Point","country":"Bahamas","iata":"\\N","icao":"MYEB","latitude":"24.089488448799997","longitude":"-76.3979172707","altitude":"10","timezone":"-5","dst":"A","tz":"America/Nassau"}
-,
 {"id":"9761","name":"Bartica A Airport","city":"Bartica","country":"Guyana","iata":"GFO","icao":"SYBT","latitude":"6.358864","longitude":"-58.655207","altitude":"3","timezone":"-4","dst":"N","tz":"America/Guyana"}
+,
+{"id":"9760","name":"Black Point Airstrip","city":"Black Point","country":"Bahamas","iata":"\\N","icao":"MYEB","latitude":"24.089488448799997","longitude":"-76.3979172707","altitude":"10","timezone":"-5","dst":"A","tz":"America/Nassau"}
 ,
 {"id":"9763","name":"Doylestown Airport","city":"Doylestown","country":"United States","iata":"DYL","icao":"KDYL","latitude":"40.3330001831","longitude":"-75.1222991943","altitude":"394","timezone":"-5","dst":"A","tz":"America/New_York"}
 ,
@@ -13291,9 +13291,9 @@
 ,
 {"id":"9902","name":"Warrnambool Airport","city":"Warrnambool","country":"Australia","iata":"WMB","icao":"YWBL","latitude":"-38.2952995300293","longitude":"142.44700622558594","altitude":"242","timezone":"10","dst":"O","tz":"\\N"}
 ,
-{"id":"9904","name":"Richmond Airport","city":"Richmond","country":"Australia","iata":"RCM","icao":"YRMD","latitude":"-20.701900482177734","longitude":"143.11500549316406","altitude":"676","timezone":"10","dst":"N","tz":"\\N"}
-,
 {"id":"9905","name":"RAAF Base Curtin","city":"Derby","country":"Australia","iata":"DCN","icao":"YCIN","latitude":"-17.5813999176","longitude":"123.82800293","altitude":"300","timezone":"8","dst":"N","tz":"\\N"}
+,
+{"id":"9904","name":"Richmond Airport","city":"Richmond","country":"Australia","iata":"RCM","icao":"YRMD","latitude":"-20.701900482177734","longitude":"143.11500549316406","altitude":"676","timezone":"10","dst":"N","tz":"\\N"}
 ,
 {"id":"9935","name":"Kualanamu International Airport","city":"Medan","country":"Indonesia","iata":"KNO","icao":"WIMM","latitude":"3.642222","longitude":"98.885278","altitude":"23","timezone":"7","dst":"N","tz":"Asia/Jakarta"}
 ,
@@ -13419,9 +13419,9 @@
 ,
 {"id":"10184","name":"Lavrentiya Airport","city":"Lavrentiya","country":"Russia","iata":"\\N","icao":"UHML","latitude":"65.58000183105469","longitude":"-170.99667358398438","altitude":"30","timezone":"12","dst":"N","tz":"Asia/Anadyr"}
 ,
-{"id":"10185","name":"Paso Robles Municipal Airport","city":"Paso Robles","country":"United States","iata":"PRB","icao":"KPRB","latitude":"35.67290115","longitude":"-120.6269989","altitude":"840","timezone":"-8","dst":"A","tz":"\\N"}
-,
 {"id":"10186","name":"N 104 Helipad","city":"Ulleung","country":"South Korea","iata":"\\N","icao":"RKDU","latitude":"37.479166666699996","longitude":"130.895555556","altitude":"476","timezone":"9","dst":"N","tz":"\\N"}
+,
+{"id":"10185","name":"Paso Robles Municipal Airport","city":"Paso Robles","country":"United States","iata":"PRB","icao":"KPRB","latitude":"35.67290115","longitude":"-120.6269989","altitude":"840","timezone":"-8","dst":"A","tz":"\\N"}
 ,
 {"id":"10295","name":"Kymi Airport","city":"Kotka","country":"Finland","iata":"\\N","icao":"EFKY","latitude":"60.5713996887207","longitude":"26.896099090576172","altitude":"223","timezone":"2","dst":"E","tz":"\\N"}
 ,
@@ -13579,9 +13579,9 @@
 ,
 {"id":"11090","name":"Independence Municipal Airport","city":"Independence","country":"United States","iata":"IDP","icao":"KIDP","latitude":"37.1584014893","longitude":"-95.77839660640001","altitude":"825","timezone":"-5","dst":"A","tz":"\\N"}
 ,
-{"id":"11091","name":"Augusta Municipal Airport","city":"Augusta","country":"United States","iata":"\\N","icao":"K3AU","latitude":"37.671600341796875","longitude":"-97.0779037475586","altitude":"1328","timezone":"-5","dst":"A","tz":"\\N"}
-,
 {"id":"11092","name":"Larned Pawnee County Airport","city":"Larned","country":"United States","iata":"\\N","icao":"KLQR","latitude":"38.20859909","longitude":"-99.08599854","altitude":"2012","timezone":"-5","dst":"A","tz":"\\N"}
+,
+{"id":"11091","name":"Augusta Municipal Airport","city":"Augusta","country":"United States","iata":"\\N","icao":"K3AU","latitude":"37.671600341796875","longitude":"-97.0779037475586","altitude":"1328","timezone":"-5","dst":"A","tz":"\\N"}
 ,
 {"id":"11093","name":"Lampasas Airport","city":"Lampasas","country":"United States","iata":"\\N","icao":"KLZZ","latitude":"31.106199264526367","longitude":"-98.1958999633789","altitude":"1215","timezone":"-5","dst":"A","tz":"\\N"}
 ,
@@ -13707,9 +13707,9 @@
 ,
 {"id":"11269","name":"Tydeo Larre Borges Airport","city":"Paysandu","country":"Uruguay","iata":"PDU","icao":"SUPU","latitude":"-32.36330032348633","longitude":"-58.0619010925293","altitude":"138","timezone":"-3","dst":"S","tz":"\\N"}
 ,
-{"id":"11270","name":"Artigas International Airport","city":"Artigas ","country":"Uruguay","iata":"ATI","icao":"SUAG","latitude":"-30.400699615478516","longitude":"-56.50790023803711","altitude":"410","timezone":"-3","dst":"S","tz":"\\N"}
-,
 {"id":"11272","name":"Murray Bridge Airport","city":"Murray Bridge","country":"Australia","iata":"\\N","icao":"YMBD","latitude":"-35.06669998168945","longitude":"139.2270050048828","altitude":"55","timezone":"10","dst":"O","tz":"\\N"}
+,
+{"id":"11270","name":"Artigas International Airport","city":"Artigas ","country":"Uruguay","iata":"ATI","icao":"SUAG","latitude":"-30.400699615478516","longitude":"-56.50790023803711","altitude":"410","timezone":"-3","dst":"S","tz":"\\N"}
 ,
 {"id":"11273","name":"Horsham Airport","city":"Horsham","country":"Australia","iata":"HSM","icao":"YHSM","latitude":"-36.669700622558594","longitude":"142.17300415039062","altitude":"445","timezone":"10","dst":"O","tz":"\\N"}
 ,
@@ -13867,9 +13867,9 @@
 ,
 {"id":"11766","name":"St Thomas Municipal Airport","city":"St Thomas","country":"Canada","iata":"YQS","icao":"CYQS","latitude":"42.77000045776367","longitude":"-81.11080169677734","altitude":"778","timezone":"\\N","dst":"\\N","tz":"\\N"}
 ,
-{"id":"11767","name":"Ottawa / Rockcliffe Airport","city":"Ottawa","country":"Canada","iata":"YRO","icao":"CYRO","latitude":"45.4603004456","longitude":"-75.64610290530001","altitude":"188","timezone":"\\N","dst":"\\N","tz":"\\N"}
-,
 {"id":"11768","name":"Ottawa / Carp Airport","city":"Ottawa","country":"Canada","iata":"\\N","icao":"CYRP","latitude":"45.3191986084","longitude":"-76.0222015381","altitude":"382","timezone":"\\N","dst":"\\N","tz":"\\N"}
+,
+{"id":"11767","name":"Ottawa / Rockcliffe Airport","city":"Ottawa","country":"Canada","iata":"YRO","icao":"CYRO","latitude":"45.4603004456","longitude":"-75.64610290530001","altitude":"188","timezone":"\\N","dst":"\\N","tz":"\\N"}
 ,
 {"id":"11769","name":"Smiths Falls-Montague (Russ Beach) Airport","city":"Smiths Falls","country":"Canada","iata":"YSH","icao":"CYSH","latitude":"44.94580078125","longitude":"-75.94059753417969","altitude":"416","timezone":"\\N","dst":"\\N","tz":"\\N"}
 ,
@@ -13995,9 +13995,9 @@
 ,
 {"id":"11830","name":"Deming Municipal Airport","city":"Deming","country":"United States","iata":"DMN","icao":"KDMN","latitude":"32.262298584","longitude":"-107.721000671","altitude":"4314","timezone":"\\N","dst":"\\N","tz":"\\N"}
 ,
-{"id":"11831","name":"Desert Rock Airport","city":"Mercury","country":"United States","iata":"DRA","icao":"KDRA","latitude":"36.6194","longitude":"-116.032997","altitude":"3314","timezone":"\\N","dst":"\\N","tz":"\\N"}
-,
 {"id":"11832","name":"Needles Airport","city":"Needles","country":"United States","iata":"EED","icao":"KEED","latitude":"34.7663002014","longitude":"-114.623001099","altitude":"983","timezone":"\\N","dst":"\\N","tz":"\\N"}
+,
+{"id":"11831","name":"Desert Rock Airport","city":"Mercury","country":"United States","iata":"DRA","icao":"KDRA","latitude":"36.6194","longitude":"-116.032997","altitude":"3314","timezone":"\\N","dst":"\\N","tz":"\\N"}
 ,
 {"id":"11833","name":"Duke Field","city":"Crestview","country":"United States","iata":"EGI","icao":"KEGI","latitude":"30.65040016","longitude":"-86.52290344","altitude":"191","timezone":"\\N","dst":"\\N","tz":"\\N"}
 ,
@@ -14155,9 +14155,9 @@
 ,
 {"id":"11910","name":"Rafiqui Air Base","city":"Shorkot","country":"Pakistan","iata":"\\N","icao":"OPRQ","latitude":"30.758100509643555","longitude":"72.28250122070312","altitude":"492","timezone":"\\N","dst":"\\N","tz":"\\N"}
 ,
-{"id":"11911","name":"Faisal Air Base","city":"Karachi","country":"Pakistan","iata":"\\N","icao":"OPSF","latitude":"24.87420082092285","longitude":"67.11849975585938","altitude":"29","timezone":"\\N","dst":"\\N","tz":"\\N"}
-,
 {"id":"11912","name":"Mushaf Air Base","city":"Sargodha","country":"Pakistan","iata":"SGI","icao":"OPSR","latitude":"32.04859924316406","longitude":"72.66500091552734","altitude":"614","timezone":"\\N","dst":"\\N","tz":"\\N"}
+,
+{"id":"11911","name":"Faisal Air Base","city":"Karachi","country":"Pakistan","iata":"\\N","icao":"OPSF","latitude":"24.87420082092285","longitude":"67.11849975585938","altitude":"29","timezone":"\\N","dst":"\\N","tz":"\\N"}
 ,
 {"id":"11913","name":"Qayyarah West Airport","city":"Qayyarah","country":"Iraq","iata":"RQW","icao":"ORQW","latitude":"35.76720047","longitude":"43.125099182099994","altitude":"749","timezone":"\\N","dst":"\\N","tz":"\\N"}
 ,
@@ -14283,9 +14283,9 @@
 ,
 {"id":"11974","name":"Baranavichi Air Base","city":"Baranavichi","country":"Belarus","iata":"\\N","icao":"UMMA","latitude":"53.099998474121094","longitude":"26.049999237060547","altitude":"0","timezone":"\\N","dst":"\\N","tz":"\\N"}
 ,
-{"id":"11975","name":"Babruisk Air Base","city":"Babruisk","country":"Belarus","iata":"\\N","icao":"UMNB","latitude":"53.105","longitude":"29.205","altitude":"502","timezone":"\\N","dst":"\\N","tz":"\\N"}
-,
 {"id":"11976","name":"Severo-Eniseysk Airport","city":"Severo-Eniseysk","country":"Russia","iata":"\\N","icao":"UNIS","latitude":"60.37329864501953","longitude":"93.01170349121094","altitude":"1706","timezone":"\\N","dst":"\\N","tz":"\\N"}
+,
+{"id":"11975","name":"Babruisk Air Base","city":"Babruisk","country":"Belarus","iata":"\\N","icao":"UMNB","latitude":"53.105","longitude":"29.205","altitude":"502","timezone":"\\N","dst":"\\N","tz":"\\N"}
 ,
 {"id":"11977","name":"Sharypovo Airport","city":"Sharypovo","country":"Russia","iata":"\\N","icao":"UNKO","latitude":"55.454914093","longitude":"89.1738815308","altitude":"1099","timezone":"\\N","dst":"\\N","tz":"\\N"}
 ,
@@ -14443,9 +14443,9 @@
 ,
 {"id":"12054","name":"Wuhu Air Base","city":"Wuhu","country":"China","iata":"WHU","icao":"ZSWU","latitude":"31.3906","longitude":"118.408997","altitude":"0","timezone":"\\N","dst":"\\N","tz":"\\N"}
 ,
-{"id":"12055","name":"Shanshan Airport","city":"Shanshan","country":"China","iata":"SXJ","icao":"ZWSS","latitude":"42.91170120239258","longitude":"90.24749755859375","altitude":"0","timezone":"\\N","dst":"\\N","tz":"\\N"}
-,
 {"id":"12056","name":"Yingkou Lanqi Airport","city":"Yingkou","country":"China","iata":"YKH","icao":"ZYYK","latitude":"40.542524","longitude":"122.3586","altitude":"0","timezone":"\\N","dst":"\\N","tz":"\\N"}
+,
+{"id":"12055","name":"Shanshan Airport","city":"Shanshan","country":"China","iata":"SXJ","icao":"ZWSS","latitude":"42.91170120239258","longitude":"90.24749755859375","altitude":"0","timezone":"\\N","dst":"\\N","tz":"\\N"}
 ,
 {"id":"12057","name":"Shenyang Dongta Airport","city":"Shenyang","country":"China","iata":"\\N","icao":"ZYYY","latitude":"41.784400939941406","longitude":"123.49600219726562","altitude":"0","timezone":"\\N","dst":"\\N","tz":"\\N"}
 ,
@@ -14571,9 +14571,9 @@
 ,
 {"id":"13016","name":"New Smyrna Beach Municipal Airport","city":"New Smyrna Beach","country":"United States","iata":"\\N","icao":"KEVB","latitude":"29.055700302124023","longitude":"-80.94889831542969","altitude":"10","timezone":"-5","dst":"A","tz":"\\N"}
 ,
-{"id":"13018","name":"Las Vegas Helicopters Heliport","city":"Las vegas","country":"United States","iata":"\\N","icao":"NV03","latitude":"36.10810089111328","longitude":"-115.17400360107422","altitude":"2133","timezone":"-8","dst":"A","tz":"\\N"}
-,
 {"id":"13019","name":"Delta Camp Airport","city":"Delta Camp","country":"Botswana","iata":"\\N","icao":"FBDT","latitude":"-19.5323","longitude":"23.0925","altitude":"3140","timezone":"2","dst":"N","tz":"\\N"}
+,
+{"id":"13018","name":"Las Vegas Helicopters Heliport","city":"Las vegas","country":"United States","iata":"\\N","icao":"NV03","latitude":"36.10810089111328","longitude":"-115.17400360107422","altitude":"2133","timezone":"-8","dst":"A","tz":"\\N"}
 ,
 {"id":"13020","name":"Hwange (Town) Airport","city":"Hwange","country":"Zimbabwe","iata":"WKI","icao":"FVWT","latitude":"-18.362967","longitude":"26.519791","altitude":"2500","timezone":"2","dst":"N","tz":"\\N"}
 ,
@@ -14731,9 +14731,9 @@
 ,
 {"id":"13347","name":"El Papalon Airport","city":"San Miguel","country":"El Salvador","iata":"\\N","icao":"MSSM","latitude":"13.444100379943848","longitude":"-88.12699890136719","altitude":"283","timezone":"-6","dst":"N","tz":"\\N"}
 ,
-{"id":"13354","name":"Sandpoint Airport","city":"Sandpoint","country":"United States","iata":"\\N","icao":"KSZT","latitude":"48.299499511719","longitude":"-116.55999755859","altitude":"2131","timezone":"-8","dst":"A","tz":"\\N"}
-,
 {"id":"13355","name":"Attu Heliport","city":"Attu","country":"Greenland","iata":"QGQ","icao":"BGAT","latitude":"67.9406628551","longitude":"-53.6218696833","altitude":"32","timezone":"-3","dst":"N","tz":"\\N"}
+,
+{"id":"13354","name":"Sandpoint Airport","city":"Sandpoint","country":"United States","iata":"\\N","icao":"KSZT","latitude":"48.299499511719","longitude":"-116.55999755859","altitude":"2131","timezone":"-8","dst":"A","tz":"\\N"}
 ,
 {"id":"13356","name":"Kangaatsiaq Heliport","city":"Kangaatsiaq","country":"Greenland","iata":"QPW","icao":"BGKA","latitude":"68.3126574861","longitude":"-53.4602075815","altitude":"17","timezone":"-3","dst":"N","tz":"\\N"}
 ,
@@ -14859,9 +14859,9 @@
 ,
 {"id":"13448","name":"El Bayadh Airport","city":"El Bayadh","country":"Algeria","iata":"EBH","icao":"DAOY","latitude":"33.721666666699996","longitude":"1.0925","altitude":"4493","timezone":"1","dst":"N","tz":"\\N"}
 ,
-{"id":"13451","name":"Alzintan Airport","city":"Zintan","country":"Libya","iata":"ZIS","icao":"HLZN","latitude":"31.774878","longitude":"12.25006","altitude":"2080","timezone":"2","dst":"N","tz":"\\N"}
-,
 {"id":"13452","name":"Monkey Bay Airport","city":"Monkey Bay","country":"Malawi","iata":"MYZ","icao":"FWMY","latitude":"-14.083600044299999","longitude":"34.9197006226","altitude":"1580","timezone":"2","dst":"N","tz":"\\N"}
+,
+{"id":"13451","name":"Alzintan Airport","city":"Zintan","country":"Libya","iata":"ZIS","icao":"HLZN","latitude":"31.774878","longitude":"12.25006","altitude":"2080","timezone":"2","dst":"N","tz":"\\N"}
 ,
 {"id":"13453","name":"Suwałki Airport","city":"Suwalki","country":"Poland","iata":"\\N","icao":"EPSU","latitude":"54.07279968261719","longitude":"22.899200439453125","altitude":"581","timezone":"2","dst":"U","tz":"\\N"}
 ,
@@ -15019,9 +15019,9 @@
 ,
 {"id":"13629","name":"Kauehi Airport","city":"Kauehi","country":"French Polynesia","iata":"KHZ","icao":"NTKA","latitude":"-15.780799865722656","longitude":"-145.12399291992188","altitude":"13","timezone":"-10","dst":"N","tz":"\\N"}
 ,
-{"id":"13630","name":"Tatakoto Airport","city":"Tatakoto","country":"French Polynesia","iata":"TKV","icao":"NTGO","latitude":"-17.355300903320312","longitude":"-138.44500732421875","altitude":"12","timezone":"-10","dst":"N","tz":"\\N"}
-,
 {"id":"13632","name":"Tanah Merah Airport","city":"Boven Digoel","country":"Indonesia","iata":"TMH","icao":"WAKT","latitude":"-6.099219799041748","longitude":"140.29800415039062","altitude":"57","timezone":"9","dst":"N","tz":"\\N"}
+,
+{"id":"13630","name":"Tatakoto Airport","city":"Tatakoto","country":"French Polynesia","iata":"TKV","icao":"NTGO","latitude":"-17.355300903320312","longitude":"-138.44500732421875","altitude":"12","timezone":"-10","dst":"N","tz":"\\N"}
 ,
 {"id":"13635","name":"Denali Airport","city":"McKinley Park","country":"United States","iata":"\\N","icao":"AK06","latitude":"63.64509963989258","longitude":"-148.79800415039062","altitude":"2050","timezone":"-9","dst":"A","tz":"\\N"}
 ,
