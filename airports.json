@@ -16212,4 +16212,6 @@
 {"id":"9540","name":"Deer Harbor Seaplane","city":"Deer Harbor","country":"United States","iata":"DHB","icao":"\\N","latitude":"48.618397","longitude":"-123.00596","altitude":"0","timezone":"-8","dst":"A","tz":"America/Los_Angeles","displayNames":{"primary":"Deer Harbor","secondary":null}}
 ,
 {"id":"9541","name":"San Diego Old Town Transit Center","city":"San Diego","country":"United States","iata":"OLT","icao":"\\N","latitude":"32.7552","longitude":"-117.1995","altitude":"0","timezone":"-8","dst":"A","tz":"America/Los_Angeles","displayNames":{"primary":"San Diego","secondary":null}}
+,
+{"id":"9853","name":"Toowoomba Wellcamp Airport","city":"Toowoomba","country":"Australia","iata":"WTB","icao":"YBWW","latitude":"-27.558332","longitude":"151.793335","altitude":"1509","timezone":"10","dst":"N","tz":"Australia/Brisbane","displayNames":{"primary":"Toowoomba Wellcamp Airport","secondary":null}}
 ]
