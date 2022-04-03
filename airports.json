@@ -6465,7 +6465,7 @@
 ,
 {"id":"3326","name":"Mackay","city":"Mackay","country":"Australia","iata":"MKY","icao":"YBMK","latitude":"-21.171667","longitude":"149.179722","altitude":"19","timezone":"10","dst":"O","tz":"Australia/Brisbane","displayNames":{"primary":"Mackay","secondary":null}}
 ,
-{"id":"3328","name":"Proserpine Whitsunday Coast","city":"Prosserpine","country":"Australia","iata":"PPP","icao":"YBPN","latitude":"-20.495","longitude":"148.552222","altitude":"82","timezone":"10","dst":"O","tz":"Australia/Brisbane","displayNames":{"primary":"Prosserpine","secondary":null}}
+{"id":"3328","name":"Proserpine Whitsunday Coast","city":"Proserpine","country":"Australia","iata":"PPP","icao":"YBPN","latitude":"-20.495","longitude":"148.552222","altitude":"82","timezone":"10","dst":"O","tz":"Australia/Brisbane","displayNames":{"primary":"Proserpine","secondary":null}}
 ,
 {"id":"3329","name":"Rockhampton","city":"Rockhampton","country":"Australia","iata":"ROK","icao":"YBRK","latitude":"-23.381944","longitude":"150.475278","altitude":"34","timezone":"10","dst":"O","tz":"Australia/Brisbane","displayNames":{"primary":"Rockhampton","secondary":null}}
 ,
