@@ -6489,6 +6489,8 @@
 ,
 {"id":"3339","name":"Melbourne Intl","city":"Melbourne","country":"Australia","iata":"MEL","icao":"YMML","latitude":"-37.673333","longitude":"144.843333","altitude":"434","timezone":"10","dst":"O","tz":"Australia/Hobart","displayNames":{"primary":"Melbourne","secondary":"Tullamarine"}}
 ,
+{"id":"9000","name":"Melbourne All Airports","city":"Melbourne","country":"Australia","iata":"MELALL","icao":"YMML","latitude":"-37.673333","longitude":"144.843333","altitude":"434","timezone":"10","dst":"O","tz":"Australia/Hobart","displayNames":{"primary":"Melbourne All Airports","secondary":null}}
+,
 {"id":"3340","name":"Point Cook","city":"Point Cook","country":"Australia","iata":"","icao":"YMPC","latitude":"-37.932222","longitude":"144.753333","altitude":"14","timezone":"10","dst":"O","tz":"Australia/Hobart","displayNames":{"primary":"Point Cook","secondary":null}}
 ,
 {"id":"3341","name":"Adelaide Intl","city":"Adelaide","country":"Australia","iata":"ADL","icao":"YPAD","latitude":"-34.945","longitude":"138.530556","altitude":"20","timezone":"9.5","dst":"O","tz":"Australia/Adelaide","displayNames":{"primary":"Adelaide","secondary":null}}
